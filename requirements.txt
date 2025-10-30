@@ -1,0 +1,11 @@
+gradio
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+chromadb
+sentence-transformers
+torch
+transformers
+markdown
+google-generativeai

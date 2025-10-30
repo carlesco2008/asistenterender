@@ -1,0 +1,1007 @@
+¡Entendido! Mis disculpas por no haber proporcionado el texto completo anteriormente. La fragmentación era para ilustrar el método, pero ahora te entregaré el producto final completo.
+
+He procesado y formateado la totalidad de los estatutos de principio a fin. He aplicado las mismas reglas de limpieza y estructuración (eliminación de encabezados, formato Markdown, corrección de OCR, etc.) a todo el documento.
+
+Este es el texto que necesitas para que tu asistente funcione al máximo de su capacidad.
+
+---
+
+### **Instrucciones Finales:**
+
+1.  **Copia todo el texto** que aparece en el bloque de código a continuación.
+2.  Pégalo en un editor de texto plano (Bloc de Notas, TextEdit, VS Code, etc.).
+3.  Guarda el archivo con el nombre exacto: **`estatutos.txt`**.
+4.  Sube este archivo a tu Hugging Face Space, reemplazando cualquier versión anterior.
+5.  Asegúrate de que tu `app.py` esté usando el código final que te proporcioné en la respuesta anterior (el que tiene Hybrid Search y Re-ranking).
+
+---
+
+### **Texto Completo y Formateado de los Estatutos del SUTEV**
+
+```txt
+### ESTATUTO SUTEV 1984 - 2025
+### SINDICATO ÚNICO DE TRABAJADORES DE LA EDUCACIÓN DEL VALLE
+
+Personería Jurídica aprobada mediante Resolución No. 049 del 3 de marzo de 1.950 y Reforma Estatutaria aprobada mediante Resolución No. 01891 de junio 11 de 1.984.
+
+Esta Reforma del Estatuto fue aprobada por la XVIII Asamblea General de Delegados, realizada los días 17, 18, 19 de noviembre de 2024, 17 y 18 de enero de 2025, radicado ante el Ministerio de Trabajo.
+
+Luchamos por la defensa de la Educación Pública Estatal, la cultura; por mejores condiciones de vida para el maestro y defensa del régimen prestacional, laboral y docente.
+
+---
+
+### OBJETO DEL ESTATUTO
+
+Como trabajadores tenemos el derecho de asociarnos libremente en defensa de nuestros intereses sin intervención del Estado. El presente estatuto contiene la estructura interna del funcionamiento del sindicato con orden en los principios democráticos, se fundamentan en los principios de la Constitución Política, en la declaración universal de los Derechos Humanos, en el Convenio 87 de la OIT, en Ley 26 de 1976 y, en el CST segunda parte, Derecho Colectivo del Trabajo y en especial el Art. 362 vigente al momento de la aprobación de esta reforma.
+
+## CAPÍTULO I
+### NOMBRE Y DOMICILIO
+
+**Artículo 1º.** Con el nombre de Sindicato Único de Trabajadores de la Educación del Valle -SUTEV funcionará una Organización Gremial de primer grado, integrada por los trabajadores de la educación de los establecimientos oficiales que laboren en el ámbito territorial del Departamento del Valle del Cauca.
+
+**Artículo 2º.** El domicilio principal del Sindicato Único de Trabajadores de la Educación del Valle - SUTEV - será la ciudad de Santiago de Cali, capital del Departamento del Valle del Cauca.
+
+## CAPÍTULO II
+### PRINCIPIOS, FINES Y OBJETIVOS
+
+**Artículo 3º. PRINCIPIOS:** Son principios del Sindicato Único de Trabajadores de la Educación del Valle - SUTEV- los siguientes:
+
+a) Defender la carrera docente, la carrera administrativa, las normas que benefician a la educación pública estatal, propugnar la dignificación y profesionalización de los trabajadores de la educación.
+b) Trabajar y luchar por el respeto a la pluralidad política e ideológica de sus afiliados, por mejorar sus condiciones de vida y por la justicia social.
+c) Propender por la defensa de la calidad y universalidad de la Educación Pública Estatal que garantice el acceso y permanencia a ella, de forma gratuita y obligatoria.
+d) Promover la participación de sus afiliados en programas laborales, profesionales, sociales, recreativos y culturales que posibiliten su mejoramiento y superación.
+e) Participar activa y militantemente en la defensa de la integridad de los derechos de los niños, las niñas, los jóvenes, las mujeres y los adultos.
+f) Promover el respeto por la autonomía escolar, el desarrollo y la apropiación del movimiento pedagógico, que construya escuela con práctica pedagógica democrática.
+g) Estudiar las características de las carreras: docente y administrativa y las condiciones de trabajo de sus afiliados. Constituirse en opción política como mecanismo para la reivindicicación de los derechos de los trabajadores de la educación y contribuir en la constitución de un sistema de gobierno con equidad social, que respete el estado social de derecho y los principios democráticos.
+h) Garantizar: la independencia, los principios democráticos, la participación, la solidaridad, la inclusión, la equidad, sostenibilidad sindical, organizativa, política, financiera y lo medio ambiental.
+i) Promover los principios universales del sindicalismo, solidaridad de clase, unidad de acción, unidad sindical, unidad con los sectores sociales y populares, democracia e independencia de iglesias, partidos y del empleador.
+j) Promover la transición hacia una Asociación de pensionados para los docentes que logren su retiro laboral definitivo.
+k) Los dirigentes sindicales deben respetar y proteger los dineros de los maestros entregados bajo la responsabilidad de la Junta Directiva Central.
+l) Compromiso con la protección del ambiente y la promoción de un desarrollo sostenible dentro de la organización sindical.
+m) Impulsar la adopción de medidas que contribuyan a la reducción de la huella de carbono de las actividades sindicales.
+n) Fomentar una cultura de responsabilidad ambiental entre los afiliados.
+o) Promover la equidad y justicia ambiental, asegurando que las acciones contra el cambio climático beneficien a todos los miembros por igual.
+
+**Parágrafo 1: Compromiso con la Sostenibilidad Ambiental:**
+* Promover activamente prácticas sostenibles y ecológicas en todas las actividades sindicales.
+* Asegurar que las decisiones tomadas en el sindicato consideren el impacto ambiental y contribuyan a la mitigación del cambio climático.
+
+**Parágrafo 2: Responsabilidad Ambiental:**
+* Incorporar la responsabilidad ambiental en la planificación y ejecución de todas las acciones y proyectos del sindicato.
+* Fomentar una cultura de cuidado y respeto por el medio ambiente entre los afiliados.
+
+**Parágrafo 3: Innovación y Liderazgo Ecológico:**
+* Impulsar iniciativas innovadoras que contribuyan a la sostenibilidad dentro del sindicato.
+* Actuar como líderes en la promoción de políticas y acciones que favorezcan la protección del medio ambiente.
+
+### PRINCIPIOS DEL DIRIGENTE SINDICAL
+
+**El dirigente sindical debe ser:**
+* Un dirigente público; como tal debe comportarse y cumplir con sus responsabilidades.
+* Un ejemplo para guiar y formar.
+* Un ser con vocación de servicio, trabajando en función de sus representantes y la sociedad en general.
+* Un líder que inculca una identidad política y una visión social.
+* Un líder con mentalidad abierta a los cambios que ocurren en el país.
+* Un conocedor del entorno laboral y social.
+* El dirigente debe generar un ambiente de honestidad y transparencia que permita fortalecer y dignificar el ejercicio sindical como el de motivar a la base de los docentes hacia la participación en la vida política, social, publica que contribuya a la construcción de tejido social.
+
+**El dirigente sindical no puede:**
+* Faltar a su compromiso ético.
+* Entregar información confidencial de la organización.
+* Concentrar el poder en unos pocos.
+* Malgastar los recursos físicos económicos del sindicato.
+* Callar ante situación de violación de los derechos humanos.
+* Escudarse en el sindicato para hacer actos indebidos.
+* Vender a la organización por compromisos personales.
+* Acolitar errores de directivos en detrimento de los derechos de los trabajadores.
+
+**Artículo 4º. FINES:** Son fines del Sindicato Único de Trabajadores de la Educación del Valle - SUTEV- los siguientes:
+a) El pleno desarrollo del ejercicio sindical, sin más limitaciones que las que imponen las normas legales.
+b) La investigación, el estudio y la comprensión crítica de los fenómenos socio cultural y político de la región.
+c) El fomento de una conciencia política de la clase explotada y oprimida.
+d) La lucha constante por el bienestar social, económico, profesional y la preservación de la salud.
+e) La promoción de los derechos humanos.
+f) El fortalecimiento de solidaridad de clase.
+g) Auxiliar a sus afiliados en caso de calamidad doméstica catastrófica, una vez expedida la reglamentación por parte de la Junta Directiva Central.
+h) Implementar y promover prácticas sostenibles y ecológicas en las actividades del sindicato.
+i) Colaborar con autoridades y organizaciones para desarrollar políticas y proyectos que aborden los retos del cambio climático.
+j) Educar y concientizar a los afiliados sobre la importancia de la sostenibilidad ambiental y la adaptación y mitigación al cambio climático.
+
+**Artículo 5º. OBJETIVOS:** Los objetivos del Sindicato Único de Trabajadores de la Educación del Valle - SUTEV- son los siguientes:
+a) Asesorar a sus afiliados en la defensa de sus derechos como trabajadores de la educación pública.
+b) Representar y asesorar ante las autoridades competentes los intereses generales de los afiliados.
+c) Promover la unión, el apoyo mutuo y solidario entre sus afiliados y estrechar los vínculos sindicales con los demás sectores de los trabajadores.
+d) Mantener una base de datos actualizada de los docentes pre pensionado y brindarles asesoría permanente, para que en el momento del retiro laboral definitivo de forma inmediata disfruten plenamente de los derechos que la legislación pertinente les reconoce.
+e) Mantener una relación permanente y estrecha entre el sindicato, los maestros, la escuela, las universidades públicas y la comunidad.
+f) Exigir al Gobierno Nacional, Departamental y Municipal lo establecido en la normatividad sobre capacitación laboral y sindical.
+g) Articular la lucha de los Trabajadores de la educación pública a la de todos los Trabajadores Colombianos.
+h) Divulgar y democratizar el espíritu sindical sin sectarismos y parcialidad entre los trabajadores de la educación.
+i) Propender y luchar por el respeto a la pluralidad política e ideológica de los trabajadores de la educación.
+j) Trabajar por la defensa de la educación pública, la carrera docente y su dignificación.
+k) Divulgar el espíritu pedagógico e investigativo a través de los proyectos propuestos desde el CEID en procura de constituirse en un departamento de difusión y formación docente permanente con convenio con instituciones de formación profesional de carácter público.
+l) Presentar los pliegos de solicitudes laborales.
+m) Promover la sostenibilidad ambiental y la adopción de prácticas ecológicas dentro de la organización sindical.
+n) Fomentar la educación ambiental y la concienciación sobre el cambio climático entre los afiliados.
+o) Desarrollar e implementar proyectos de adaptación y mitigación ante el cambio climático en colaboración con entidades gubernamentales y organizaciones no gubernamentales.
+p) Integrar la sostenibilidad ambiental en la política sindical y en los programas de formación de los afiliados.
+
+## CAPÍTULO III
+### CONDICIONES DE ADMISIÓN
+
+**Artículo 6º.** Pueden ser afiliados de la organización sindical directivos docentes, docentes y administrativos adscritos al sistema educativo:
+a) Ser trabajador de la educación en los establecimientos educativos del Valle del Cauca, de acuerdo con el Artículo 1º de este Estatuto.
+b) Presentar a la Junta Directiva Central la hoja de admisión debidamente diligenciada y el auxilio del seguro mutual debidamente autenticado ante la notaría.
+c) Ser aceptado por la Junta Directiva Central dentro de los treinta días siguientes.
+d) Declaración de que conoce y acepta el estatuto del SUTEV y adquirir el compromiso de recibir la capacitación básica sindical y demás capacitaciones relacionadas.
+e) No ser miembro de otro sindicato de la misma naturaleza.
+
+## CAPÍTULO IV
+### DEBERES Y DERECHOS DE LOS AFILIADOS (AS)
+
+**Artículo 7º.** Son deberes de los afiliados(as):
+a) Asistir al curso de inducción sindical realizado por la Escuela de Formación.
+b) Cumplir el estatuto del SUTEV y las orientaciones emanadas por la Asamblea General de delegados, el Pleno Departamental, la Junta Directiva Central, la Asamblea Municipal y las Subdirectivas Municipales con la Personería Jurídica del Sindicato Único de Trabajadores de la Educación del Valle SUTEV, que se relacionen exclusivamente con la función legal, social, pedagógica y política sindical.
+c) Cumplir con las obligaciones contempladas en el presente estatuto.
+d) Respetar y proceder leal y éticamente con el SUTEV, los compañeros de trabajo, los directivos y funcionarios, manteniendo la disciplina sindical y los principios estatutarios.
+e) Pagar puntualmente las cuotas ordinarias y extraordinarias y hacerlo personalmente los 10 primeros días del mes, cuando los descuentos no sean nominales. La Junta Directiva Central analizará los casos especiales de acuerdo con el debido proceso y tipificando las situaciones que lo amerite.
+f) Acatar las directrices de CUT, FECODE y SUTEV.
+g) Rechazar todo tipo de imposiciones del sistema capitalista neoliberal que vulnere el movimiento sindical incluyendo toda forma de opresión laboral, de conculcación de derechos y el ajusticiamiento del paralelismo sindical.
+h) Velar por la conservación, el uso razonable y estatutario de los recursos físicos y económicos de la organización sindical.
+i) Presentar Justificación escrita por la inasistencia a las citaciones y convocatorias de la Organización sindical.
+j) Exigir un informe escrito de los recursos del SUTEV de manera semestral, ya sea en físico o digital.
+k) Participar en programas de educación y concientización ambiental organizados por el sindicato.
+l) Implementar prácticas sostenibles y ecológicas en todas las actividades relacionadas con el sindicato.
+m) Promover y apoyar proyectos de sostenibilidad y mitigación del cambio climático dentro del sindicato.
+
+**Artículo 8º.** Son derechos de los afiliados (as):
+a) Elegir y ser elegidos miembros de la Junta Directiva Central o de las Subdirectivas Municipales, o de los órganos de representación sindical al tenor del presente Estatuto y de la Ley.
+b) Elegir y ser elegido delegado a las Asambleas y demás eventos, asistir y participar con voz y voto, siempre y cuando esté a paz y salvo con la Tesorería en el pago de las cuotas ordinarias y otros conceptos.
+c) Gozar de los beneficios y garantías que otorga la condición de ser sindicalizado.
+d) Revisar los documentos contables de la entidad, cada seis (6) meses, previa solicitud escrita dirigida a la Junta Central.
+e) Recibir asesoría y/o acompañamiento jurídico en forma oportuna y gratuita, siempre y cuando el asunto esté relacionado con el ejercicio sindical, labor docente o la violación de derechos fundamentales ajustados al debido proceso.
+f) Recibir información sindical, pedagógica y política en forma veraz y oportuna.
+g) Recibir formación político - sindical y pedagógica.
+h) Recibir Solidaridad Económica oportuna cuando se requiera, en los términos del Reglamento Interno. (Reglamentar la solidaridad).
+i) Conocer el estatuto y los reglamentos internos del SUTEV.
+j) Recibir respuesta oportuna a las peticiones o consultas presentadas a los diferentes estamentos de la organización sindical.
+k) Participar en programas de formación y educación ambiental organizados por el sindicato.
+l) Proponer y ser parte de proyectos de sostenibilidad N/A y adaptación al cambio climático.
+m) Acceder a información sobre prácticas sostenibles y proyectos ambientales del sindicato.
+
+## CAPÍTULO V
+### ADMINISTRACIÓN Y GOBIERNO
+
+**Artículo 9º.** Para la administración, control y gobierno del Sindicato Único de los Trabajadores de la Educación del Valle –SUTEV– se dispondrá de los siguientes organismos, en estricto orden jerárquico y sujetos a las funciones más adelante definidas:
+1. Asamblea General de delegados.
+2. Pleno Departamental.
+3. Junta Directiva Central.
+4. Junta Departamental de presidentes.
+5. Asamblea Municipal de Afiliados(as).
+6. Subdirectivas Municipales y Equipo Coordinador Sindical de los Asuntos de Cali.
+
+## CAPÍTULO VI
+### DE LA ASAMBLEA GENERAL DE DELEGADOS
+
+**Artículo 10º.** La Asamblea General de Delegados es la máxima autoridad del Sindicato Único de Trabajadores de la Educación del Valle del Cauca - SUTEV- y estará constituida por la Junta Directiva Central, la Comisión de Garantías Electorales, la Comisión de Ética y Veeduría Sindical, los Representantes Departamentales y los Representantes de los municipios certificados y los elegidos expresamente para este fin, elegidos en cada municipio, a razón de uno (1) por cada 50. "La elección de los delegados se hará por tarjetón donde se presenta una plancha con mínimo 5 integrantes".
+
+**Parágrafo 1:** Aquellos municipios cuya fracción sea menor de cincuenta (50) afiliados, tendrá un (1) delegado.
+**Parágrafo 2:** Los delegados electos de un municipio pierden su designación si son trasladados a otro municipio y su suplencia se elige por cooptación de la lista o en su efecto la lista que sigue en votación; si se agotan las listas pueden ser elegidos por postulación en la asamblea municipal de afiliados. Los municipios que disminuyan el número de afiliados pueden disminuir el número de delegados teniendo en cuenta la fórmula 1 delegado por cada 50 afiliados y uno más por fracción.
+**Parágrafo 3:** Si un municipio incrementa el número de afiliados tendrá derecho a más representación en la asamblea general teniendo en cuenta que el número de participantes por municipio es de a razón de uno (1) por cada 50. Para este proceso se tendrá en cuenta la figura de cooptación o designación en asamblea si no existen listas. El corte de la participación del número de delegados será dos meses antes de la Asamblea General de Delegados.
+
+**Artículo 11º.** La Asamblea General de Delegados se reunirá ordinariamente en el segundo semestre de cada año y extraordinariamente cuando sea convocada por la Junta Directiva Central, por el Fiscal (según sus funciones) o por un número no inferior al 30% de sus delegados.
+
+**Parágrafo 1:** Para convocar la Asamblea General de Delegados a sesión extraordinaria deberá mediar comunicación escrita a la Junta Directiva Central por parte del Fiscal, o por el 30% de los delegados, con anticipación máximo a 15 días.
+**Parágrafo 2:** Si la Junta Directiva Central no convocara, el Fiscal quedará obligado a hacerlo dentro de los términos previstos (30 días). En caso de no hacerlo, serán sancionados conforme al estatuto.
+**Parágrafo 3:** El período de los delegados será el mismo de la Junta Directiva Central, excepto para aquellos que después de su elección sean trasladados del municipio donde laboraban o retirados del servicio, en cuyo caso se reemplaza por el que sigue en orden de cooptación en la plancha que fue elegido, conforme a las normas electorales.
+**Parágrafo 4:** La sede de la Asamblea General de delegados podrá ser cualquier municipio del territorio del Valle del Cauca.
+**Parágrafo 5:** Los delegados dispondrán de la información pertinente para el desarrollo de la Asamblea General de delegados, mínimo con 15 días de anticipación a su realización. Si este requisito no se cumple, se posterga la asamblea.
+
+**Artículo 12º.** Será quórum de la Asamblea General de delegados la mitad más uno (1) del total de los delegados elegidos por los municipios, la Junta Directiva Central del SUTEV, la comisión de garantías electorales, la Comisión de Ética y Veeduría Sindical y los Representantes a los diferentes organismos donde tenga asiento el sindicato. Las decisiones de la Asamblea para que sean válidas requieren del voto afirmativo de la mayoría absoluta de los delegados presentes. El voto es personal e indelegable.
+
+**Parágrafo:** Para la aceptación de la renuncia de un delegado se requiere la presentación por escrito de esta ante la Junta Directiva Central, a la Comisión de Garantías Electorales del SUTEV, junto con la certificación de que la Subdirectiva Municipal la acepta y acredita al delegado que le sigue en la lista.
+
+**Artículo 13º.** Son funciones de la Asamblea General de Delegados:
+a) Aprobar, adoptar y reformar el estatuto del Sindicato.
+b) Estudiar y decidir sobre la fusión con otro Sindicato.
+c) Estudiar y decidir sobre la afiliación o desafiliación a organizaciones sindicales de segundo y tercer grado.
+d) Aplicar sanciones a los directivos, representantes y afiliados de acuerdo con el presente Estatuto.
+e) Decretar la Expulsión de cualquiera de sus afiliados por incumplimiento grave del estatuto lo cual debe estar plenamente comprobado.
+f) Aprobar las cuotas extraordinarias que deban pagar los afiliados.
+g) Analizar y aprobar el presupuesto general.
+h) Aprobar la cuantía de la fianza que debe presentar el Tesorero.
+i) Aprobar por las dos terceras partes de los votos de los delegados asistentes los gastos no previstos en el presupuesto que excedan el equivalente del 1.5 % del patrimonio en el presupuesto.
+j) Elaborar acuerdos, resoluciones de conformidad con la facultad que este Estatuto determinen y en caso de sanción, se respetará el debido proceso.
+k) Aprobar o improbar las resoluciones dictadas por la Junta Directiva Central.
+l) La liquidación o disolución del Sindicato se hará por el voto de las dos terceras partes de los delegados debidamente elegidos, en dos debates, en diferentes días y en sesión plenaria.
+m) Fenecer los balances que le presente la Junta Directiva Central.
+n) Elegir el Revisor Fiscal y su suplente, y fijar sus honorarios.
+o) La aprobación del Plan de Acción del SUTEV y demás planes y políticas sindicales a ejecutarse.
+p) Conocer los planes en informes de la Junta Directiva Central.
+q) Darse su propio reglamento.
+r) Regular las tarifas de los gastos de representación y viáticos, en condiciones de igualdad y de acuerdo con las actividades desempeñadas tanto para directivos, integrantes de comités, delegados, maestros ejecutivos de la CUT, representantes (salud, prestaciones sociales, amenazados, JUDE, JUME), Comité Coordinador de Cali. Para todos los anteriores deben aplicar las tarifas plasmadas en los presentes estatutos.
+s) Convocar a elección de Junta Directiva Central, en caso de no haberse cumplido su periodo estatutario, siempre y cuando lo aprueben, al menos las dos terceras partes de los delegados asistentes.
+t) Convocar a la elección de Junta Directiva Central, cuando cumplido el periodo más seis meses, los miembros de junta directiva Central, no citen a elecciones.
+u) Revocar y/o sancionar a la Comisión de Ética por no cumplir con los objetivos por lo cual fue elegida.
+v) Exigir el reintegro de dineros que hayan sido malversados por la junta directiva Central.
+w) Prohibir que la Junta Directiva Central tenga privilegios con primas especiales, con los dineros de los maestros. El SUTEV no es una empresa y los integrantes de la Junta Directiva Central no tienen salarios sino viáticos.
+x) Delegar a las Subdirectivas de los Municipios Certificados la presentación de los pliegos de solicitudes ante sus entes territoriales y la designación de los negociadores, lo cual deberá contar con la aprobación de sus Asambleas Municipales. Para los entes territoriales Santiago de Cali y Departamento del Valle del Cauca se autoriza a la Junta Directiva Departamental la presentación, aprobación de los pliegos de solicitudes y designación de los negociadores, contando con la aprobación del Pleno Departamental.
+
+**Artículo 14º.** Las tarifas de los gastos de representación y viáticos enunciada en el artículo 13, literal r) quedará de la siguiente forma:
+
+### TABLA DE VIATICOS AÑO 2025
+(Incremento IPC 5,20 con reducción del 15%)
+El incremento anual de los gastos de representación y viáticos será con base al IPC anual.
+*   **ALCALA:** Transporte $148.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $225.000, Pernoctada $96.000
+*   **ANDALUCIA:** Transporte $96.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $173.000, Pernoctada $96.000
+*   **ANSERMANUEVO:** Transporte $148.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $225.000, Pernoctada $96.000
+*   **ARGELIA:** Transporte $172.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $249.000, Pernoctada $96.000
+*   **BOLIVAR:** Transporte $119.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $196.000, Pernoctada $96.000
+*   **BUENAVENTURA:** Transporte $122.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $199.000, Pernoctada $96.000
+*   **BUGA:** Transporte $85.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $162.000, Pernoctada $96.000
+*   **BUGALAGRANDE:** Transporte $102.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $179.000, Pernoctada $96.000
+*   **CAICEDONIA:** Transporte $136.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $213.000, Pernoctada $96.000
+*   **CANDELARIA:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **CARTAGO:** Transporte $141.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $218.000, Pernoctada $96.000
+*   **CALI:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000
+*   **DAGUA:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **EL DARIEN:** Transporte $106.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $182.000, Pernoctada $96.000
+*   **EL AGUILA:** Transporte $171.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $248.000, Pernoctada $96.000
+*   **EL CAIRO:** Transporte $192.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $269.000, Pernoctada $96.000
+*   **EL CERRITO:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **EL DOVIO:** Transporte $147.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $224.000, Pernoctada $96.000
+*   **FLORIDA:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **GINEBRA:** Transporte $80.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $156.000, Pernoctada $96.000
+*   **GUACARI:** Transporte $80.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $156.000, Pernoctada $96.000
+*   **JAMUNDI:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **LA CUMBRE:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **LA UNION:** Transporte $158.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $235.000, Pernoctada $96.000
+*   **LA VICTORIA:** Transporte $136.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $213.000, Pernoctada $96.000
+*   **OBANDO:** Transporte $138.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $215.000, Pernoctada $96.000
+*   **PALMIRA:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **PRADERA:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **RESTREPO:** Transporte $106.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $182.000, Pernoctada $96.000
+*   **RIO FRIO:** Transporte $95.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $172.000, Pernoctada $96.000
+*   **ROLDANILLO:** Transporte $122.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $199.000, Pernoctada $96.000
+*   **SAN PEDRO:** Transporte $85.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $162.000, Pernoctada $96.000
+*   **SEVILLA:** Transporte $118.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $195.000, Pernoctada $96.000
+*   **TORO:** Transporte $138.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $215.000, Pernoctada $96.000
+*   **TRUJILLO:** Transporte $105.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $182.000, Pernoctada $96.000
+*   **TULUA:** Transporte $89.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $165.000, Pernoctada $96.000
+*   **ULLOA:** Transporte $158.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $235.000, Pernoctada $96.000
+*   **VERSALLES:** Transporte $158.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $235.000, Pernoctada $96.000
+*   **VIJES:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **YOTOCO:** Transporte $79.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $156.000, Pernoctada $96.000
+*   **YUMBO:** Transporte $74.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $151.000, Pernoctada $96.000
+*   **ZARZAL:** Transporte $112.000, Taxis $22.000, Desayuno $13.000, Almuerzo $21.000, Comida $21.000, Total (1 DIA) $189.000, Pernoctada $96.000
+*   **BOGOTA:** Transporte $1.579.000, Taxis $2.016.000, Desayuno $2.244.000, Almuerzo $224.000
+
+**Parágrafo transitorio:** La tabla de viáticos tendrá una reducción del 15% únicamente en el año 2025.
+
+**Artículo 15º.** En las reuniones de la Asamblea de Delegados cualquiera de los miembros tiene derecho a pedir que se hagan constar en el acta los nombres de los que estén presentes en el momento de tomarse una determinación y a pedir que la votación sea secreta. La no aceptación de una u otra solicitud será aprobada o no por la mayoría absoluta de la Asamblea General de Delegados.
+
+## CAPÍTULO VII
+### PLENO DEPARTAMENTAL
+
+**Artículo 16º.** El Pleno Departamental del SUTEV es un organismo de asesoría, orientación y control está conformada por: Junta Directiva Central, Presidentes de las Subdirectivas Municipales, el Equipo Coordinador Sindicales de los Asuntos de Cali, la Comisión de Ética y Veeduría Sindical, los Representantes del Sindicato ante los diferentes organismos de carácter oficial, elegidos por circunscripción, los Representantes del Magisterio ante la CUT; además un delegado por cada 250 afiliados y fracción igual o mayor de cincuenta (50) afiliados, elegidos en las respectivas Asambleas de los municipios que tengan este derecho.
+
+**Parágrafo 1:** En ausencia del presidente de la Subdirectiva Municipal, podrá asistir el vicepresidente o cualquier integrante de esta previa certificación de la Subdirectiva Municipal quien lo delega.
+**Parágrafo 2:** El periodo de los delegados asistentes al Pleno Departamental será el mismo de la Junta Directiva Central.
+
+**Artículo 17º.** El Pleno Departamental se reunirá ordinariamente cada cuatro (4) meses y extraordinariamente cuando las condiciones así lo requieran, previa citación de la Junta Directiva Central, el Fiscal o la mayoría absoluta de los integrantes del pleno, con comunicación escrita a la Junta Directiva Central, con un mínimo de quince (15) días de anticipación. Será quórum para las sesiones del Pleno la mitad más uno de sus integrantes y sus decisiones será aprobado por el voto de la mayoría absoluta de los miembros asistentes.
+
+**Artículo 18º.** SON FUNCIONES DEL PLENO DEPARTAMENTAL:
+a) El control de las actuaciones y decisiones de la Junta Directiva Central, las Subdirectivas municipales y de los Representantes del Sindicato.
+b) Controlar y fiscalizar el desarrollo y ejecución del presupuesto, de acuerdo con lo ordenado por la Asamblea General de Delegados.
+c) Nombrar comisiones de trabajo no previstas dentro de las secretarías permanentes, fijándoles funciones precisas y tiempo de ejecución.
+d) Aprobar y evaluar acciones y tareas que permitan el logro de los objetivos y el desarrollo de los programas del Sindicato y el cumplimiento de las conclusiones de la Asamblea General de Delegados.
+e) Aplicar la sanción de su competencia de conformidad con el presente Estatuto. Hasta tanto sea ratificado en la Asamblea General de Delegados.
+f) Sancionar a los integrantes de la Junta Directiva Central y las subdirectivas que tengan una ausencia permanente de sus funciones en cada uno de sus municipios.
+
+**Artículo 19º.** Las reuniones del Pleno Departamental serán presididas por el presidente de la Junta Directiva Central y en su ausencia, por el vicepresidente; en ausencia de los dos, el Pleno Departamental elegirá presidente ad hoc.
+
+## CAPÍTULO VIII
+### JUNTA DIRECTIVA CENTRAL
+
+**Artículo 20º.** La Junta Directiva Central es el organismo de dirección permanente del Sindicato Único de Trabajadores de la Educación del Valle – SUTEV -. Estará compuesta por trece (13) miembros elegidos por un periodo de cuatro (4) años mediante el voto directo y secreto de los afiliados en cada municipio del departamento, con el sistema de planchas, y el mecanismo de cociente electoral, para asegurar la representación de las minorías, so pena de nulidad.
+
+**Parágrafo 1:** Cada miembro de Junta Directiva Central atenderá como mínimo una Secretaría de las determinadas estatutariamente. Quien ocupe el cargo de presidente sólo atenderá lo concerniente a sus responsabilidades.
+**Parágrafo 2:** Se instituye el calendario electoral aprobado en la XIX asamblea de FECODE; cada 4 años para Junta Directiva Central y Subdirectivas a partir de la segunda semana de septiembre.
+**Parágrafo 3:** La Junta Directiva Central o las Subdirectivas Municipales no podrán: vender o subarrendar los bienes muebles e inmuebles del Sindicato Único de Trabajadores de la Educación del Valle SUTEV, sin que medie autorización de la Asamblea General de Delegados.
+**Parágrafo 4:** La Junta Directiva Central con la asesoría del equipo jurídico de la organización adelantarán las acciones tendientes a recuperar el lote invadido por terceros, en el municipio de Calima El Darién.
+**Parágrafo 5:** La Junta Directiva Central puede adquirir, poseer y administrar en pro de los afiliados y empleados del gremio con su respectiva veeduría los bienes, muebles e inmuebles que sean necesarios para el ejercicio de las actividades sindicales, pedagógicas, culturales, recreativas y deportivas.
+**Parágrafo 6:** Es obligación de la junta elegida y la junta saliente realizar las jornadas de empalme que sean necesarias para darle continuidad al plan de trabajo y que los nuevos directivos conozcan en qué condiciones financieras y administrativas está la organización sindical. La no realización de las jornadas de empalme se debe calificar como una falta grave.
+**Parágrafo 7:** La Junta Directiva Central se reunirá y en pleno designará los cargos restantes siguientes: presidente, vicepresidente, tesorero, secretario general, secretario de Actas y las Secretarías Especiales.
+**Parágrafo 8:** Ningún miembro de Junta Directiva Central que no viva en la ciudad de Cali, podrá ejercer su actividad sindical desde su municipio, ya que los viáticos de la organización sindical le permiten a dicho directivo, trasladarse a la ciudad de Cali o área metropolitana.
+
+**Artículo 21º.** Para ser miembro de la Junta Directiva Central serán necesarios los siguientes requisitos:
+a) Presentar paz y salvo de la Organización Sindical.
+b) Presentar certificación de curso de capacitación sindical.
+c) Quien sea miembro de la Junta Directiva del SUTEV, no podrá ser parte de la dirección de la CUT, ni de FECODE y/u otra Central o Federación.
+d) Ser afiliado al Sindicato por un periodo no inferior a tres años.
+e) Presentar un programa de trabajo.
+f) No tener doble vínculo laboral con otra entidad o institución desde el momento de su posesión.
+g) No haber sido condenado por ningún delito, excepto los delitos políticos.
+h) No haber pertenecido a la junta inmediatamente anterior.
+i) No tener sanción vigente al momento de la inscripción y/o posesión.
+j) Haber sido integrante de una Subdirectiva o del Equipo Coordinador Sindical o de alguna representación como mínimo dos (2) años.
+k) No pertenecer a otro sindicato de la misma naturaleza.
+
+**Parágrafo 1:** Ser directivo docente no es impedimento para aspirar a Junta Directiva Central del SUTEV siempre y cuando sea afiliado a la Organización y cumpla con el resto de los requisitos.
+**Parágrafo 2:** La falta de cualquiera de los requisitos contenidos en el Artículo 20 invalida la elección.
+**Parágrafo 3:** A partir de la elección directa de la Junta Directiva Central, ningún miembro de ésta podrá ser elegido para el periodo inmediatamente siguiente. Una vez transcurrido el siguiente período podrá ser elegido nuevamente, sin embargo, no podrá ser elegido por más de 2 periodos para ejercer como directivo de Junta.
+
+**Artículo 22º.** Para el cargo de Fiscal de la Junta Directiva Central el elegido será el candidato de la plancha que obtenga la segunda votación o fracción mayor minoritaria en todo el departamento. La Junta Directiva Central se reunirá y en pleno y designará los cargos restantes: Presidente, Vicepresidente, Secretario General, Secretario de Actas y las Secretarías Especiales.
+
+**Parágrafo 1:** La jornada de actividad sindical de los directivos en comisión sindical será de tiempo completo.
+**Parágrafo 2:** A partir de la elección directa de la Junta Directiva Central, ningún miembro de ésta podrá ser elegido para el periodo inmediatamente siguiente. Una vez transcurrido el siguiente período podrá ser elegido nuevamente.
+**Parágrafo 3:** Ningún miembro de la Junta Directiva Central podrá desempeñar simultáneamente cargos de representación ante organismos oficiales en los cuales tenga asiento el Sindicato.
+
+**Artículo 23º.** En una Asamblea General de afiliados(as) a la Organización Sindical de un Municipio, se seleccionarán los integrantes que hagan falta para completar los 13 integrantes de la subdirectiva Municipal cuando se hayan agotado la totalidad de los miembros que integraban las respectivas planchas haciendo uso de la cooptación. Cuando la renuncia sea mayor a cuatro (4) integrantes de la subdirectiva municipal, se convocará de nuevo a elecciones.
+
+**Parágrafo:** Los integrantes de las planchas electas de una subdirectiva que presenten renuncia quedan inhabilitados para postularse a nueva elección en el periodo siguiente.
+
+**Artículo 24º.** Los miembros de la Junta Directiva Central entrarán en el ejercicio de sus funciones tan pronto el Comité de Garantías Electorales deposite ante el Ministerio de la Protección y la Seguridad Social el listado oficial de los miembros elegidos a la Junta Directiva Central al tenor de la Sentencia C-465 de 2008.
+
+**Artículo 25º.** La calidad de miembro de la Junta Directiva Central es renunciable ante la misma Junta Directiva Central, quien está facultada para llenar las vacantes que se presenten o por ausencia temporal o incapacidad. Las vacantes se cubrirán con quien en su orden siga en la plancha por la cual fue elegido el directivo que se reemplaza.
+
+**Parágrafo 1:** En caso de retiro definitivo del presidente, corresponde a la Junta Directiva Central designar su reemplazo y cuando su ausencia sea temporal lo reemplazará el vicepresidente.
+**Parágrafo 2:** En caso de ausencia injustificada por 30 días consecutivos o más de unos de sus miembros, la Junta Directiva queda facultada para llenar la vacante según el orden de la plancha para la cual fue elegido.
+**Parágrafo 3:** Por ausencia, por incapacidad, licencia, por viaje, no tendrá derecho al cobro de viáticos. Quien no ejerza la actividad sindical, no tiene derecho a viáticos.
+
+**Artículo 26º.** La Junta Directiva Central se reunirá ordinariamente cada ocho (8) días; extraordinariamente será convocada por el presidente, el Fiscal o la mayoría de sus miembros. Forman quórum de la Junta Directiva Central la mitad más uno (1) de sus miembros.
+
+**Artículo 27º.** Los miembros de la Junta Directiva Central tendrán derecho a voz y voto en la Asamblea General y en el Pleno Departamental.
+
+**Artículo 28º.** SON FUNCIONES Y OBLIGACIONES DE LA JUNTA DIRECTIVA CENTRAL:
+a) Ejercer la dirección del Sindicato y orientar las actividades sindicales teniendo en cuenta la plataforma de lucha, el programa de acción y las resoluciones adoptadas por la Asamblea General de Delegados y el Pleno Departamental.
+b) Revisar y fenecer cada mes, en primera instancia, las cuentas que le presente el Tesorero con el visto bueno del Fiscal.
+c) Velar porque todos los afiliados cumplan el estatuto del SUTEV y las obligaciones que les competen.
+d) Informar a la Asamblea General de Delegados, acompañando la respectiva documentación, cuando un afiliado incurriere en causal de expulsión.
+e) Dictar de acuerdo con este Estatuto, el reglamento interno del Sindicato y las resoluciones que sean necesarias para el fiel cumplimiento de estos.
+f) La Junta Directiva Central Presentará informe semestral del accionar de la organización sindical SUTEV a las bases magisteriales sobre el balance e informe detallado de sus labores, los cuales deben llevar las firmas de todos los miembros de la Junta Directiva Central.
+g) Atender y resolver las solicitudes y reclamaciones de sus afiliados.
+h) Llenar las vacantes que se presenten en su seno, de acuerdo con el Estatuto del SUTEV.
+i) Convocar las reuniones de la Asamblea General de Delegados, el Pleno Departamental y hacer efectiva la convocatoria de elección de Junta Directiva ordenada por la Asamblea General de Delegados, de acuerdo con el presente Estatuto y con la reglamentación que ella expida.
+j) Elaborar el presupuesto de cuentas y gastos teniendo en cuenta los proyectos de formación y capacitación para los afiliados.
+k) Nombrar por concurso, los empleados de planta del Sindicato y asignarles los puestos respectivos de acuerdo con el manual de funciones.
+l) Resolver los permisos que le solicite cualquiera de sus miembros directivos, por un lapso no mayor de treinta (30) días consecutivos o más, tomando las medidas que crea aconsejables para nombrar o no el reemplazo respectivo mientras dure la ausencia.
+m) Autorizar al presidente para firmar contratos y otorgar poderes a nombre del Sindicato.
+n) Velar por el cumplimiento de las funciones de cada uno de sus miembros directivos, Subdirectivas Municipales, Representantes, Comisiones, funcionarios y aplicar las sanciones a que haya lugar de conformidad con el presente Estatuto.
+o) Intervenir en caso de conflicto interno en as subdirectivas municipales.
+p) Hacer llegar a los municipios trimestralmente la información de estados de cuentas.
+q) Llevar a cabo la ejecución presupuestal de todos los montos correspondientes de acuerdo con el presente Estatuto.
+r) Verificar que mensualmente se envíen a las subdirectivas los recursos económicos que correspondan con base al número de afiliados y en los tiempos pertinentes.
+s) Acatar todas las directrices emitidas desde la CUT y FECODE.
+t) Crear una comisión de disciplina integrada por máximo 7 integrantes para que hagan parte de los eventos sindicales que la junta directiva convoque, como. Pleno de presidentes, asamblea de delegados, fiestas que se organizan con motivo del día del maestro. Sus funciones serán de pasar un informe a la comisión de ética, para que, en caso de mal comportamiento, se tenga un soporte para aplicarle el estatuto a los maestros que afecten el desarrollo de las actividades. La elección de la comisión de disciplina será cada 4 años.
+u) La Junta Directiva Central convocará a elecciones de nueva Junta y de Representantes 60 días antes de la finalización de su periodo.
+v) Las demás que le asigne la Asamblea General o el Pleno Departamental y que no contravenga el presente Estatuto.
+
+**Artículo 29º.** SON OBLIGACIONES DE LOS MIEMBROS DE LA JUNTA DIRECTIVA CENTRAL LAS SIGUIENTES:
+a) Cumplir cabalmente las funciones inherentes al cargo para el cual fue elegido.
+b) Acatar las decisiones de las Asambleas Generales de Delegados y del Pleno Departamental, acordes con el presente Estatuto.
+c) Asistir puntualmente a las reuniones.
+d) Acoger las orientaciones, directrices y planes de acción de la Federación Colombiana de Educadores y la CUT.
+e) Presentar a la Junta Directiva, informe escrito bimestral de sus labores sindicales y proyectos de trabajo.
+f) Dedicar el tiempo completo al Sindicato.
+g) Cumplir con el programa de trabajo presentado y aprobado por la Junta Directiva correspondiente a su secretaria.
+h) Mantener actualizada la sección a su cargo en la web del SUTEV con la información pertinente.
+i) Asistir puntualmente a las movilizaciones y demás acciones sindicales que se programen, participando activamente en la coordinación y planeación de esta.
+j) Las demás que le asigne la Junta Directiva Central.
+
+**Artículo 30º. DEL PRESIDENTE.**
+El presidente de la Junta Directiva Central tiene la representación legal del Sindicato y como tal puede celebrar contratos, realizar actividades y otorgar poderes, previa autorización de la Junta Directiva Central. En caso de que el contrato o la actividad equivalga a un valor superior a los 100 Salarios mínimos legales vigentes, esta aprobación debe estar supeditada al pleno departamental de presidentes o a la Asamblea General de Delegados. Sin embargo, si la Asamblea General de Delegados previamente ha aprobado dicho contrato o actividad, no requiere refrendación adicional.
+
+**Artículo 31º.** Son funciones y obligaciones del presidente:
+a) Instalar y presidir la Asamblea General de Delegados, Plenos Departamentales y Junta Directiva Central; elaborar el orden del día de las respectivas sesiones y dirigir los debates.
+b) Convocar la Junta Directiva Central a sesiones ordinarias o extraordinarias.
+c) Informar por escrito de sus labores a la Junta Directiva Central, a la Asamblea General de Delegados, al Pleno Departamental, en sus sesiones ordinarias y extraordinarias, de todas las gestiones realizadas.
+d) Proponer a la Junta Directiva Central, a la Asamblea General de Delegados, al Pleno Departamental, los acuerdos y reglamentos que crea necesarios para la mejor organización del sindicato.
+e) Firmar la correspondencia, las actas una vez aprobadas y tomar orden de retiro de fondos en asocio al Tesorero y al Fiscal.
+f) Ordenar las cuentas de gastos determinados y ordenados por la Junta Directiva Central, el Pleno Departamental y la Asamblea General de Delegados, de acuerdo con el presente Estatuto.
+g) Dar cuentas a la Junta Directiva Central o al Pleno Departamental, cuando requiera separase de su cargo accidental o definitivamente.
+h) Comunicar a la División de Asuntos Colectivos, o al Inspector de Trabajo correspondiente, en asocio del secretario general, los cambios totales o parciales que ocurren en la Junta Directiva Central.
+i) Será responsable de la organización y buena marcha de todas las secretarias.
+j) Las demás que le asigne la Junta Directiva Central y el Pleno Departamental, siempre y cuando no contravenga el presente Estatuto.
+
+**Artículo 32º. DEL VICEPRESIDENTE.**
+Son funciones del vicepresidente las siguientes:
+a) Asumir la presidencia de la Junta Directiva Central, Plenos o Asamblea General de Delegados por faltas temporales del presidente o cuando éste tome parte en discusiones o debates.
+b) Proponer en las reuniones de la Junta Directiva los acuerdos o resoluciones que estime necesarios para la buena marcha del Sindicato.
+c) Desempeñar todas las funciones presidenciales en ausencia del presidente.
+d) Colaborar con el presidente en el desarrollo y cumplimiento de sus funciones.
+
+**Artículo 33º. DEL SECRETARIO GENERAL.**
+Son funciones del secretario general, las siguientes:
+a) Llevar el libro de afiliación, organizar y mantener actualizada en informática la base de datos, asesorándose para ello de la secretaría de formación sindical.
+b) Llevar el libro de actas, tanto de la Junta Directiva Central, como de la Asamblea General de Delegados y el Pleno Departamental. En ninguno de los libros será lícito arrancar, sustituir, o adicionar hojas, ni se permitirán enmendaduras, entrerrenglonaduras, rasgaduras o tachaduras. Cualquier omisión o error deberá enmendarse mediante anotación posterior.
+c) Citar por orden de la Junta Directiva Central, del presidente, del Fiscal o del 20% de los afiliados, de acuerdo con este Estatuto, a sesiones ordinarias y extraordinarias de la Asamblea General y a los Plenos Departamentales.
+d) Contestar la correspondencia, de acuerdo con el presidente.
+e) Firmar las actas que hayan sido aprobadas.
+f) Organizar el archivo del Sindicato.
+g) Llevar el Libro de entrada y salida de correspondencia.
+h) Firmar los documentos de la Junta Directiva Central, dirigidos a todas las Subdirectivas, las conclusiones que adopten la Junta Directiva Central, los Plenos Departamentales y la Asamblea General de Delegados.
+i) Mantener informados permanentemente de todas las novedades o correspondencia a la Junta Directiva, Subdirectivas Municipales, autoridades, los empleadores y otras instituciones con quienes tenga o adquiera relaciones el Sindicato.
+j) Dirigir y coordinar la secretaria.
+k) Dar a conocer oficialmente las conclusiones de la Asamblea General de Delegados, el Pleno Departamental y reunión de presidentes, a más tardar un mes después del evento.
+l) Enviar a las instituciones educativas las conclusiones de la asamblea general de delegados, pleno departamental y junta departamental de presidentes, a más tardar un mes después del evento.
+
+**Artículo 34º.** SON FUNCIONES Y OBLIGACIONES DEL SECRETARIO DE ACTAS:
+a) Ayudar bajo la dirección del secretario general, a llevar los libros de actas, de la Asamblea General de Delegados, Pleno Departamental y Junta Directiva Central de acuerdo con las normas del Código Laboral y la Ley de Correspondencia y archivo aplicable a las organizaciones.
+b) Reemplazar al secretario general cuando se ausente temporalmente.
+c) Conservar o llevar el registro de asistencia de los eventos del magisterio con el secretario general y suministrarle los datos necesarios sobre lo acordado en las reuniones, para que él haga las certificaciones correspondientes.
+d) Las especiales que le asignen el secretario general o la Junta Directiva Central, que sean inherentes a su cargo y que no contravenga el presente Estatuto.
+
+**Artículo 35º. DEL FISCAL.**
+Son funciones y Obligaciones del Fiscal:
+a) Velar por el estricto cumplimiento de este Estatuto y demás disposiciones.
+b) Dar su concepto legal de todos los puntos que se someten a su consideración por la Asamblea General de delegados, Pleno Departamental y la Junta Directiva Central.
+c) Visar las cuentas de gastos incluidos en el presupuesto y las de aquellos que puedan ser ordenados por la Asamblea General de Delegados, Pleno Departamental y por la Junta Directiva Central.
+d) Refrendar las cuentas que deba rendir el Tesorero si las encontrase correctas, e informar sobre las irregularidades que note.
+e) Informar a la Asamblea General de Delegados, Pleno Departamental y la Junta Directiva Central acerca de la violación del Estatuto.
+f) Emitir conceptos en los casos de sanción de afiliados (suspensión y expulsión). Este concepto formará parte de la respectiva documentación que debe presentar la Junta Directiva Central a la Asamblea General de Delegados de acuerdo con el Capítulo XI de Sanciones.
+g) Firmar juntamente con el presidente y el Tesorero, toda orden de retiro de fondos.
+h) Ejecutar, en asocio del presidente y el Tesorero una minuciosa revisión de los libros para verificar la legalidad de las operaciones registradas y comprobadas; la exactitud de saldos de tesorería. Esta diligencia se practicará cada mes y sentará la correspondiente acta de arqueo de caja, que acompañará a las cuentas.
+i) Propender la afiliación del mayor número de trabajadores de la educación, previo el lleno de los requisitos legales.
+j) Solicitar, previo informativo escrito, ante el organismo competente del sindicato, las sanciones previstas en el Estatuto, tanto para los afiliados como para los miembros de la Junta Directiva Central, por incumplimiento de sus obligaciones estatutarias.
+k) Certificar el quórum de las sesiones de los distintos organismos del Sindicato ante el presidente.
+l) Presentar informe general de las actividades desarrolladas por la Junta Directiva Central a la Asamblea General de Delegados, Pleno Departamental, y evaluar sus propios actos.
+m) Controlar las actividades generales del Sindicato e informar a la Junta Directiva Central de las fallas que encontraré, a fin de que esta las enmiende. Si no fuere atendido por la Junta Directiva Central podrá convocar extraordinariamente a la Asamblea General de Delegados.
+n) Verificar y refrendar el desarrollo y ejecución presupuestal de los proyectos anuales de formación para los afiliados.
+o) Convocar a Asamblea General de Delegados en caso de no ser citada por la Junta Directiva; el Fiscal quedará obligado a hacerlo dentro de los términos previstos (30 días). En caso de no hacerlo, será sancionado conforme al Estatuto.
+
+**Artículo 36º. DEL TESORERO.**
+Son funciones y obligaciones del Tesorero:
+a) Adquirir y Presentar a favor del Sindicato caución o fianza para organizar el manejo de los fondos, por el valor legal requerido por la entidad aseguradora que ordene la Asamblea General de delegados, teniendo en cuenta las consideraciones económicas de la entidad; una copia del documento en donde conste esta fianza será depositada en el Ministerio de la Protección y la Seguridad Social.
+b) Recaudar las cuotas de admisión, ordinarias y extraordinarias, y en general todos los valores que por cualquier concepto puedan ingresar o egresar a la Tesorería del Sindicato, expidiendo los respectivos recibos en original y tres copias, actualizando la base de datos.
+c) Llevar los libros principales y auxiliares inherentes al cargo: libro de caja, libro de bancos, libro de consignaciones bancarias y la correspondencia de tesorería. En ninguno de los libros será lícito arrancar hojas, ni se permitirán enmendaduras, Inter renglones, raspaduras o tachaduras. Cualquier omisión o error se enmendará mediante anotación posterior.
+d) Depositar en una entidad fiduciaria de la ciudad, en cuenta corriente, en C.D.T. o en C.D.A.T. y a nombre del Sindicato, todos los dineros que reciba, dejando para caja menor la cantidad que apruebe la Junta Directiva Central, siempre y cuando no exceda en ningún caso del equivalente al salario mínimo legal vigente.
+e) Abstenerse de pagar cuentas que no hayan sido ordenadas por el presidente, visado por el Fiscal, y firmar juntamente con ellos todo giro y retiro de fondos.
+f) Rendir a la Junta Directiva Central, mensualmente, un informe detallado de las sumas recaudadas, gastos efectuados y estado de caja.
+g) Permitir en todo momento, mediante solicitud previa, la revisión de los libros de contabilidad tanto por los miembros de Junta Directiva, como por el Fiscal, los funcionarios del Ministerio de la Protección y Seguridad social que estén legalmente autorizados para ello y cualquiera de los afiliados.
+h) Enviar al Ministerio de Protección y Seguridad Social cada seis (6) meses, copia autenticada de los balances presentados a la Junta Directiva Central y los presupuestos de rentas y gastos.
+i) Realizar los giros a las subdirectivas dentro de los diez (10) días siguientes, a la recepción de los dineros en la Tesorería del SUTEV de acuerdo a la distribución establecida en el artículo 67 de los estatutos, se debe informar a la subdirectiva la distribución detallada de los descuentos realizados.
+j) Pasar informes contables mensualmente de los ingresos y egresos de cada una de las Subdirectivas Municipales.
+k) Realizar y organizar el inventario de la Organización Sindical.
+l) Entregar informe de tesorería dos veces al año, a los delegados sindicales de cada institución educativa y los miembros de las subdirectivas, para que ellos lo socialicen con los afiliados al SUTEV.
+
+**Parágrafo 1:** El Tesorero, revisará mensualmente los descuentos a los afiliados(as) y no esperará a una Asamblea de Delegados para analizar los casos especiales.
+
+## CAPÍTULO IX
+### JUNTA DEPARTAMENTAL DE PRESIDENTES
+
+**Artículo 37º:** Integrada por la Junta Directiva Central, los presidentes de todas las subdirectivas y un delegado del Equipo Coordinador Sindical de los Asuntos de Cali.
+
+**Parágrafo:** Es un órgano consultivo y de apoyo a la Junta Directiva Central en decisiones de accionar sindical que se deben asumir en situaciones emergentes y de carácter urgente que requieren de un consenso general.
+
+## CAPÍTULO X
+### DE LAS SECRETARÍAS ESPECIALES
+
+**Artículo 38º.** El Sindicato tendrá las siguientes Secretarías Especiales y permanentes:
+a) Secretaría de Prensa, Propaganda y Comunicaciones.
+b) Secretaría de Quejas, Reclamaciones, Asuntos Laborales y Jurídicos.
+c) Secretaría de Cultura, Recreación y Deportes.
+d) Secretaría de Trabajadores de la Educación (Asuntos intergremiales y cooperativos) y Etnoeducadores.
+e) Secretaría de Organización y Educación Sindical.
+f) Secretaría de Género, Igualdad e Inclusión.
+g) Secretaría de Institutos Técnicos, Jornadas Nocturnas y Docentes 1278.
+h) Secretaría de Salud.
+i) Secretaría de Seguridad Social, Docentes Territoriales y Pensionados.
+j) Secretaría de Asuntos Educativos, Pedagógicos y Científicos - CEID - y Escuelas Normales.
+k) Secretaría de Derechos Humanos, Cultura Democrática y Ambiental.
+l) Secretaría de Municipios Certificados y Asuntos de Cali.
+
+**Parágrafo 1:** Cada Secretaría será dirigida por un miembro de la Junta Directiva Central y su equipo de trabajo serán aquellos afiliados que demuestren interés, capacidad y responsabilidad para ejercerlo.
+
+**Artículo 39º.** Los integrantes de la Junta Directiva Central responsables de cada una de las Secretarías Especiales, velarán por su organización, funcionamiento y marcha normal de la secretaría respectiva. Y las demás que le asignen la Junta Directiva Central dentro de su competencia; además coordinarán las Secretarías de cada una de las Subdirectivas.
+
+**Artículo 40º.** La sede de las Secretarías serán la misma del Sindicato y cada Secretaría adoptará su propio reglamento de trabajo, el cual será presentado a la Junta Directiva Central para la aprobación final.
+
+**Artículo 41º.** Las conclusiones adoptadas por cada secretaría serán presentadas por el respectivo directivo responsable de la secretaría a consideración de la Junta Directiva Central, quien previo estudio hará las sugerencias y modificaciones pertinentes. Una vez aprobadas serán de estricto cumplimiento, siempre y cuando no contravenga el presente Estatuto.
+
+**Artículo 42º.** Todas las Secretarías dispondrán de un presupuesto anual para su funcionamiento, ejecutarán el gasto, una vez aprobado su Plan de Acción por la Junta Directiva Central y ratificado por el Pleno Departamental, desarrollarán sus actividades previa presentación del presupuesto a ejecutar a Junta Directiva Central quien dará viabilidad a la actividad teniendo en cuenta los recursos disponibles y los traslados presupuestales pertinentes.
+
+**Artículo 43º. SECRETARÍA DE PRENSA, PROPAGANDA Y COMUNICACIONES.**
+Son funciones de la Secretaría de Prensa, Propaganda y Comunicaciones:
+a) Coordinar los programas de comunicación y prensa de la Organización Sindical y la página web del SUTEV.
+b) Programar la edición trimestral de un periódico, revistas y boletines, manteniendo permanentemente informados a los afiliados de las actividades del sindicato y problemática laboral del gremio.
+c) Lograr la financiación y dotación del Departamento de Prensa y Publicaciones del Sindicato.
+d) Realizar periódicamente el cronograma de grabaciones.
+e) Impulsar la imagen institucional y el sentido de pertenencia al SUTEV utilizando los instrumentos y medios de comunicación a su alcance.
+f) La organización sindical contará con un equipo de prensa y comunicaciones al servicio del magisterio, de las luchas sociales y populares de los trabajadores; resaltando la independencia del patrón y la conciencia de clase.
+g) Y las demás que le asigne la Junta Directiva Central dentro de su competencia. Divulgar las luchas del pueblo.
+
+**Artículo 44º. SECRETARÍA DE RECLAMACIONES, ASUNTOS LABORALES Y JURÍDICOS**
+Son funciones de la Secretaría de Reclamaciones, Asuntos Laborales y Jurídicos:
+a) Atender las quejas que los afiliados(as) formulen, antes las autoridades respectivas los reclamos individuales como colectivos a que haya lugar, por su labor sindical y docente y dar respuesta oportuna a cada una de ellas.
+b) Adelantar campaña por el mejoramiento profesional y laboral de los afiliados.
+c) Emplear mecanismos de solución a los problemas que deben ser resultados por los organismos del estado y mantener estrecha relación con la representación del magisterio antes de las distintas entidades.
+d) Organizar la asesoría jurídica que requieren los afiliados y afiliadas.
+e) Promover estudios y alternativas frente a las medidas que se dicen por parte del gobierno, en lo referente a los aspectos laborales y jurídicos de la educación.
+f) Estudiar y orientar a sus afiliados, Junta Directiva Central y otros órganos de gobierno, en lo referente a la legislación docente y demás actividades de índole laboral.
+g) Coordinar y organizar el Departamento Jurídico el cual se dará su propio reglamento.
+h) Tramitar ante el FOMAG y los organismos de salud y prevención social, las reclamaciones o solicitudes del Magisterio.
+i) Participar en las reuniones semestrales con los veedores de salud del Valle del Cauca con el equipo de abogados de la organización sindical, y orientar sobre acciones que se deban tomar al incumplimiento del servicio de salud de maestros y beneficiarios.
+j) Asistir a los municipios no certificados mensualmente para atender quejas y solicitudes de los docentes, con el apoyo de cada subdirectiva municipal.
+k) Las demás que le asigne la Junta Directiva Central.
+
+**Parágrafo 1:** Las condiciones del acompañamiento jurídico que estén por fuera de los parámetros establecidos en la comisión deben ser autorizadas por la Junta Directiva Central.
+**Parágrafo 2:** El acompañamiento y asesoría jurídica en conflictos entre afiliados se autoriza solo con la finalidad de dirimir las controversias presentadas entre ellos y plantear principios de acuerdos.
+**Parágrafo 3:** No habrá asesoría ni acompañamiento jurídico para los casos en que los afiliados están insertos en procesos penales o administrativos por causales particulares de acoso sexual, hurto, estafa o faltas comprobadas de incumplimiento de sus deberes profesionales.
+**Parágrafo 4:** Todo miembro del sindicato que fuese destituido de su cargo debido a sus funciones o la actividad sindical o este inmerso en procesos disciplinarios o administrativos tendrá derecho a recibir la asesoría y acompañamiento jurídico pertinente en pro del restablecimiento del derecho hasta que haya un pronunciamiento judicial definitivo. Los docentes afiliados incursos en este tipo de situaciones no pueden hacer parte de los entes de representación para evitar inhabilidades en los procesos de reclamación y /o negociación.
+**Parágrafo 5:** Los abogados contratados para estas funciones no deben tener vinculación laboral con entes territoriales.
+
+**Artículo 45º. SECRETARÍA DE CULTURA, RECREACIÓN Y DEPORTES.**
+Son funciones de la Secretaría de Cultura, Recreación y Deportes:
+a) Organizar el equipo operativo de cultura y deporte.
+b) Promover y divulgar e impulsar dentro del magisterio la difusión y desarrollo de la cultura nacional y apoyar a los artistas y escritores afiliados a la Organización.
+c) Promover dentro del magisterio, talleres, cursos artísticos y culturales.
+d) Apoyar a las comunidades educativas en las actividades artísticas, culturales y populares.
+e) Organizar y realizar eventos de recreación, deporte e integración para todos los afiliados a la Organización.
+f) Organizar los juegos deportivos departamentales cada dos (2) años.
+g) Propender por la creación del Centro Recreativo para los trabajadores de la educación.
+h) Organizar el Encuentro Departamental Folklórico y Cultural Docente cada año.
+i) Las demás que le asigne la Junta Directiva Central dentro de su competencia.
+j) Dar auxilio monetario a los diferentes grupos artísticos para transportarse desde su casa hasta la sede del SUTEV Y viceversa, siempre que salgan a presentaciones.
+
+**Artículo 46º. SECRETARÍA DE TRABAJADORES DE LA EDUCACIÓN (ASUNTOS INTERGREMIALES Y COOPERATIVOS) Y ETNOEDUCADORES:**
+Son funciones de la Secretaría de Trabajadores de la Educación (Asuntos Intergremiales y Cooperativos) y Etnoeducadores:
+a) Elaborar las propuestas en materia de capacitación y profesionalización docente para ser presentadas a las secretarías especiales y órganos encargados de la capacitación docente.
+b) Promover la capacitación, estudios e investigaciones relacionadas con los aspectos etnoeducativos.
+c) Establecer relaciones de carácter sindical con organizaciones internacionales docentes.
+d) Realizar estudios comparativos de la situación profesional y docente colombiana, en relación con otras naciones con el objeto de programar, planificar y desarrollar proyectos específicos de mejoramiento.
+e) Mantener y responder la correspondencia internacional, previa consulta con el presidente y el secretario general.
+f) Programar reuniones con los docentes etnoeducadores de las instituciones educativas.
+g) Coordinar la celebración del mes de la afrocolombianidad.
+h) Coordinar la celebración de alianzas y convenios con las instituciones educativas.
+i) Implementar programas de sensibilización contra la discriminación racial.
+j) Aplicación de incentivos y apoyo para el acceso a la formación de maestrías y doctorados.
+k) Capacitación pedagógica y metodológica.
+l) Organizar y ejecutar estrategias de implementación.
+m) Conformación de redes de conocimiento etnoeducadores.
+n) Promover la capacitación, estudios e investigaciones relacionadas con los aspectos etnoeducativos.
+o) Gestionar que las entidades territoriales certificadas del Valle del Cauca, se respeten las plazas destinadas para etnoeducación.
+
+**Artículo 47º. SECRETARÍA DE ORGANIZACIÓN Y EDUCACIÓN SINDICAL.**
+Son funciones de Secretaría de Organización y Educación Sindical:
+a) Promover y organizar proyectos de formación sindical en las áreas económica, política, laboral, jurídica, entre otras.
+b) Promover la unidad sindical de todos los trabajadores de la educación.
+c) Proponer a la Junta Directiva Central planes y proyectos que permitan la mejor organización y funcionamiento de sus organismos de trabajo, administración y gobierno.
+d) Mantener relaciones con fundaciones, organizaciones y personal que tengan que ver con la educación sindical, para realizar cursos de actualización por lo menos una vez al año en cada municipio.
+e) Programar y realizar regularmente cursos de inducción sindical para los nuevos afiliados.
+f) Promover el crecimiento de la organización con la afiliación del mayor número de los trabajadores de la educación, previo cumplimiento de los requisitos estatutarios.
+
+**Parágrafo 1:** La escuela de formación sindical es la instancia encargada de brindar a los afiliados la formación en los aspectos gremiales, políticos, económicos, sociales y culturales. Su estructura organizativa estará conformada por el director, un equipo coordinador y de planeación, compuesto por un coordinador departamental y los coordinadores de las áreas de formación en: Inducción sindical y gremial; laboral, política y económica. El equipo estará compuesto por cuatro afiliados. Además, cuenta con un equipo departamental integrado por los delegados de cada GAGEM, los cuales tienen como función coordinar, apoyar y dinamizar los planes de acción de los proyectos que sean aprobados por la Junta Directiva Central.
+
+**Artículo 48º. SECRETARÍA DE GÉNERO, IGUALDAD E INCLUSIÓN.**
+Son funciones de la Secretaría de Género, Igualdad e Inclusión:
+a) Conformar un equipo de coordinación integrado por: Una directora, una coordinadora y un equipo operativo conformado por seis compañeras.
+b) Desarrollar formas organizativas que permitan lograr una participación de la mujer en la lucha política, sindical y buscar conquistas propias de la mujer educadora.
+c) Realizar seminarios municipales, zonales y departamentales, con el objeto de profundizar sobre las condiciones políticas, laborales y sociales de los trabajadores de la educación.
+d) Conmemorar, vincularse y/o celebrar: Día internacional de la Mujer, del hombre, de la infancia, de la familia y de la no violencia, entre otros.
+e) Propiciar dentro de los afiliados, acciones y programas tendientes a fortalecer la unidad familiar.
+g) Propiciar dentro del sector educativo la organización y capacitación de los niños y jóvenes en sus aspiraciones a personero en los establecimientos educativos.
+h) Difundir los derechos fundamentales de los niños y niñas en la primera infancia.
+i) Desarrollar actividades que permitan sensibilizar a la comunidad educativa sobre la necesidad de una educación incluyente y con pertinencia.
+j) Realizar estudios tendientes a lograr el mejoramiento de las condiciones de vida de los educadores, los infantes y los jóvenes.
+k) Impulsar programas tendientes a eliminar cualquier tipo de discriminación contra los trabajadores de la educación de discriminación contra los niños y las mujeres.
+l) Propiciar dentro del sector educativo acciones y programas tendientes a fortalecer la unidad familiar.
+m) Las demás que le asigne la Junta Directiva Central.
+
+**Artículo 49º. SECRETARÍA DE INSTITUTOS TÉCNICOS, JORNADAS NOCTURNAS Y DOCENTES 1278.**
+Son funciones de la Secretaría de Institutos Técnicos, Jornadas Nocturnas y Docentes 1278:
+a) Conformar un equipo coordinador de Docentes 1278 a nivel departamental, un equipo de trabajo conformado con representantes de instituciones técnicas, de jornadas nocturnas y un miembro de la Secretaría de Asuntos de Cali.
+b) Atender los reclamos y buscar las soluciones a los temas presentados por los docentes objeto de atención de esta secretaría.
+c) Actualizar permanentemente a la comunidad educativa acerca de los proyectos, resoluciones, leyes, acuerdos, pactos... que les afecten y/o beneficien.
+d) Velar por el constante mejoramiento de la calidad educativa en estos sectores.
+e) Intervenir, mediar y aportar soluciones a los conflictos que se presenten entre el ente nominador, los trabajadores de la educación y la comunidad educativa.
+f) Coordinar con la Secretaría del CEID programas de formación.
+g) Y las demás que le asigne la Junta Directiva Central.
+
+**Artículo 50º. SECRETARÍA DE SALUD.**
+Son funciones de la Secretaría de Salud:
+a) Estudiar y proponer mecanismos que viabilicen la prestación eficiente de los servicios médicos del sector educativo.
+b) El secretario de salud debe convocar mensualmente a reuniones de veeduría en cada zona de influencia donde tenga sede el prestador responsable del servicio de salud. Las reuniones para el respectivo seguimiento deben ser constantes para tomar acciones desde la misma secretaria y la Junta departamental del SUTEV.
+c) El equipo de apoyo de salud departamental estará integrado por los representantes de los municipios no certificados que fueron elegidos por los maestros del Valle del Cauca, el representante de salud de cada municipio certificado, los docentes del equipo coordinador elegidos como veedores de salud de Cali. Las reuniones comité se realizarán trimestralmente para analizar el panorama regional.
+d) Realizar una reunión semestral con todos los veedores de salud de los municipios del Valle del Cauca para analizar el panorama municipal con base en informes escritos, y establecer un plan de acción frente a las necesidades, el cual se presentará a la junta departamental del SUTEV.
+e) Diseñar acciones, que mejoren el servicio de salud de los docentes y sus beneficiarios.
+f) Emprender acciones de veeduría permanente a los contratos y términos de referencia que firman los operadores de la salud del magisterio.
+g) Promover acciones de movilización y lucha constante, cuando los operadores incumplan el objeto del contrato mediante la negación de los servicios de salud oportunos a los Maestros y sus beneficiarios.
+h) Recopilar datos sobre el funcionamiento de los servicios de salud y realizar evaluaciones para mejorar la atención al paciente.
+
+**Artículo 51º. SECRETARÍA DE SEGURIDAD SOCIAL, DOCENTES TERRITORIALES Y PENSIONADOS.**
+Son funciones de la Secretaría de Seguridad Social, Docentes Territoriales y Pensionados:
+a) Estudiar y proponer mecanismos que viabilicen la prestación eficiente de los servicios prestacionales del sector educativo.
+b) Tramitar ante el FOMAG y los organismos de previsión social las reclamaciones o solicitudes de sus afiliados.
+c) Promover la vinculación de los trabajadores de la educación a planes de vivienda.
+d) Informar oportunamente al Magisterio acerca de proyectos, resoluciones, leyes, acuerdos, tareas, pactos y demás sucesos relacionados con la seguridad social del gremio.
+e) Coordinar programas especiales con y para los docentes pensionados.
+f) Promover programas especiales de recreación y deportes para los pensionados del sector educativo.
+g) Conformar Comités de Trabajadores de la Educación en los entes territoriales certificados.
+h) Orientar a los trabajadores de la educación en los entes territoriales en su problemática del orden laboral y prestaciones.
+i) Acompañar acciones sindicales en los municipios que conduzcan a la reivindicación de los derechos de los trabajadores territoriales.
+j) Acompañar eventos que permitan socializar y conocer la importancia de la construcción del SUTEV.
+k) Organizar el equipo operativo de prestaciones sociales con los representantes elegidos por votación y establecer como equipo estrategias para exigir el cumplimiento en las solicitudes de las diferentes prestaciones, realizando una coordinación con los representantes departamentales, de municipios certificados y las subdirectivas.
+l) Coordinar con los representantes de prestaciones sociales, visitas de seguimiento a las diferentes Secretarías de Educación como veedores de los procesos de los servicios prestacionales del sector educativo y exigir como equipo el cumplimiento.
+m) Promover dentro de sus afiliados capacitaciones para el diligenciamiento de documentación y uso de plataforma humano y FOMAG para lo pertinente a prestaciones sociales.
+
+**Artículo 52º. SECRETARÍA DE ASUNTOS EDUCATIVOS PEDAGÓGICOS Y CIENTÍFICOS - CEID - ESCUELAS NORMALES.**
+Son funciones de la Secretaría de Asuntos Educativos Pedagógicos y Científicos y Escuelas Normales:
+a) Representar al SUTEV en el Centro de Estudios e Investigaciones Docentes - CEID -, tanto a nivel regional, nacional como internacional, fomentando la participación en alianzas estratégicas y eventos clave en el ámbito educativo global.
+b) Diseñar e implementar un sistema de retroalimentación continua con los docentes para estudiar, planificar y realizar campañas que promuevan el mejoramiento y actualización de sistemas, planes, programas y contenidos de la educación, basado en las necesidades y experiencias directas de los maestros.
+c) Organizar programas de capacitación continua en pedagogía, tecnología y ciencias, en alianza con universidades y plataformas en línea, orientados a la cualificación de los maestros y trabajadores de la educación en áreas esenciales como pedagogía, ciencia y tecnología.
+d) Ampliar el alcance de la defensa de la educación pública mediante campañas de sensibilización pública, foros y debates en los que se discutan problemáticas del sector y se desarrollen propuestas que fomenten una educación inclusiva y de calidad.
+e) Fortalecer los equipos pedagógicos desde una perspectiva tanto pedagógica como política, mediante la organización de foros, talleres, seminarios y reuniones de evaluación periódica sobre la efectividad de los programas de formación en el aula.
+f) Desarrollar estrategias que articulen los enfoques político y pedagógico para defender la educación pública de calidad, estableciendo relaciones de colaboración con actores externos (sociedad civil, empresas y universidades) que apoyen el frente político pedagógico.
+g) Establecer criterios claros y metodologías definidas de trabajo con el director(a) del CEID y el equipo departamental para diseñar, ejecutar y evaluar los proyectos propuestos en función de los objetivos del sindicato.
+h) Aumentar la frecuencia de publicaciones científicas y pedagógicas, promoviendo la participación activa de docentes en investigaciones que fortalezcan la cultura investigativa dentro del sindicato.
+i) Gestionar convenios interinstitucionales, tanto nacionales como internacionales, que apoyen la investigación, la cualificación y la actualización de los docentes, priorizando alianzas que proporcionen recursos y fondos para el desarrollo de la educación.
+j) Crear un comité de evaluación de materiales didácticos que invite a docentes de diversas áreas a probar y aportar retroalimentación sobre recursos pedagógicos en el aula antes de una distribución amplia.
+k) Diseñar y difundir la revista Correo Pedagógico, incluyendo estudios de caso, innovaciones pedagógicas y entrevistas con docentes destacados, con una edición semestral en formato digital de fácil acceso.
+l) Representar al magisterio ante los comités territoriales de cualificación y formación docente, asegurando que estos representantes reciban formación específica en políticas públicas y gestión educativa.
+m) Modernizar y gestionar el Centro de Documentación Histórica del SUTEV a cargo del CEID, digitalizando archivos para facilitar el acceso a los documentos de investigación y educativos del sindicato.
+n) Crear y estructurar un Departamento de Formación e Investigación para diagnosticar las necesidades de capacitación en el sindicato, dirigiendo los recursos y esfuerzos hacia programas de formación continua en pedagogía, tecnología y ciencia.
+o) Coordinar con las diferentes secretarías el acompañamiento a las escuelas normales en la creación de políticas públicas para la cualificación docente y la formación inicial, aplicando metodologías innovadoras en proyectos que sirvan de insumo para la discusión entre FECODE y el MEN sobre la estructuración de las escuelas normales.
+p) Organizar un evento anual en el que los docentes presenten sus proyectos pedagógicos, con un sistema de incentivos y premios para los proyectos destacados, como oportunidades de publicación o participación en congresos educativos.
+q) Institucionalizar un Congreso Pedagógico anual y crear espacios culturales como cine foros para fortalecer la formación sindical.
+
+**Parágrafo 1:** La Secretaría de Asuntos Educativos Pedagógicos y Científicos - CEID - y Escuelas Normales para efectos de su normal funcionamiento contará con la siguiente estructura: Un (1) Director, un (1) Coordinador Departamental elegido en la Asamblea Departamental de esta Secretaría y un Equipo Operativo elegido por el director o directora, el equipo zonal elegido por la asamblea departamental del área metropolitana y el equipo departamental, que estará conformado por un representante de cada GAGEM.
+**Parágrafo 2:** Impulsar en el magisterio de Cali y del resto del Departamento del Valle, una campaña pedagógica educativa, con eventos, actividades y medidas correspondientes dirigidas al rescate, fomento, aplicación, defensa y desarrollo del proyecto educativo y/o modelo pedagógico consagrado en la Ley General de Educación o Ley 115 de 1994.
+**Parágrafo 3:** Realizar un reconocimiento anual dirigido a docentes del sector oficial afiliados al sindicato, que se destaquen en la implementación de proyectos pedagógicos innovadores y significativos.
+
+**Artículo 53º. SECRETARÍA DE DERECHOS HUMANOS, CULTURA DEMOCRÁTICA Y AMBIENTAL.**
+Funciones de la Secretaría de Derechos Humanos, Cultura Democrática y Ambiental: El equipo de coordinación y planeación central estará conformado así:
+* Un director departamental que debe ser él o el encargado(a) de la Secretaría de Derechos Humanos de la Junta Directiva Central.
+* Un (1) representante de amenazados por cada municipio certificado.
+* Un (1) representante de amenazados departamental (Municipios no certificados).
+* Dos (2) representantes del Equipo Coordinador Sindical de los Asuntos de Cali.
+a) El equipo departamental de planeación y coordinación derechos humanos quedará integrado por: secretario DDHH, un representante por cada uno de los municipios certificados, 2 representantes de los municipios no certificados y un representante del equipo coordinador de Cali.
+b) El director(a) departamental de derechos humanos convoca a las reuniones y encuentros del equipo coordinador y planeación zonal y el equipo departamental de derechos humanos. Cuando se presente una situación de amenaza y desplazamiento a un docente afiliado, la Junta Directiva Central del SUTEV en solidaridad y previo análisis de las circunstancias podrá aprobar un auxilio por un monto mínimo de medio Salario Mínimo Legal Vigente.
+c) El director (a) departamental de derechos humanos y equipo zonal de derechos humanos tienen la función de coordinar y dinamizar el plan estratégico de la Secretaría de Derechos Humanos y el plan de acción y los proyectos de formación y promoción de derechos humanos aprobados en los encuentros zonales y departamentales.
+d) El equipo departamental previamente capacitado dinamizará el plan de acción y los proyectos a ejecutarse en los diferentes municipios del departamento. La Secretaría de Derechos Humanos del SUTEV presentará y desarrollará propuestas de formación y capacitación para los docentes afiliados con financiación de la Organización Sindical y/o convenios que se puedan establecer con las Secretarías de Educación y organismos encargados de capacitación.
+e) Responsabilizarse de la formación, promoción, denuncia, investigación y difusión de los derechos humanos.
+f) Responsabilizarse de las relaciones interinstitucionales con organismos del sector público y privado a nivel local, nacional e internacional que promuevan y defiendan los derechos humanos y el derecho internacional humanitario.
+g) Proponer, proyectar y hacer seguimiento a las acciones jurídicas, administrativas y de denuncia pública, que en materia de derechos humanos y de derecho internacional humanitario se deban adelantar o se adelanten por el SUTEV. Apoyar, orientar en coordinación con el Representante de Amenazados a los maestros y maestras en el ejercicio de sus derechos, cuando se presenten casos de amenaza, persecución y violación que involucren los derechos humanos y el derecho internacional humanitario.
+h) Estimular el fortalecimiento de prácticas democráticas para el tratamiento y la resolución de los conflictos en el ámbito sindical y escolar.
+i) Dirigir y orientar la Red Departamental de Derechos Humanos de los trabajadores de la educación en todos los ámbitos.
+j) Presentar el proyecto de plan anual de trabajo de la secretaría.
+k) Promover y organizar la conformación del Comité Especial de Amenazados y Desplazados en las entidades territoriales. El representante del magisterio debe ser elegido por voto directo mediante tarjetón.
+l) Las demás que le asigne la Junta Directiva Central que sean afines.
+
+**Artículo 54º. SECRETARÍA DE MUNICIPIOS CERTIFICADOS Y ASUNTOS DE CALI.**
+Son funciones de esta Secretaría:
+a) Luchar por la defensa de la Educación Pública Estatal.
+b) Exigir mejores condiciones de vida para el maestro y maestra de los municipios certificados.
+c) Defender el régimen prestacional, laboral y docente.
+d) Orientar, representar y asesorar a los afiliados en sus tareas sindicales.
+e) Exigir al gobierno de los entes certificados lo establecido en la normatividad vigente de nuestro país.
+f) Realizar seminarios municipales, zonales y departamentales para fortalecer la unidad sindical y la defensa de los derechos de los maestros y maestras.
+g) Promover la participación en programas profesionales, sociales, culturales y recreativos de sus afiliados que permitan mejorar, actualizar, fortalecer y tener en un estado mental óptimo a los docentes de los municipios certificados.
+h) Hacer presencia en todos los estamentos del gobierno en representación de nuestros afiliados.
+i) Coordinar el trabajo del Equipo Coordinador Sindical de los Asuntos de Cali.
+j) Y todas aquellas funciones dadas por la Junta Directiva Central, la Asamblea de Delegados y nuestro Estatuto.
+
+**Artículo 55º.** La Asamblea General de Delegados, el Pleno Departamental y la Junta Directiva Central del Sindicato podrán asignar comisiones accidentales para el desempeño de actividades no comprendidas dentro de las labores reglamentarias o que requieran una urgente ejecución, sin quebrantar el presente Estatuto.
+
+## CAPÍTULO XI
+### ASAMBLEA MUNICIPAL DE AFILIADOS
+
+**Artículo 56º.** La reunión de todos los afiliados del municipio, o de su mayoría, constituye la Asamblea Municipal, que es la máxima autoridad del municipio. La Asamblea Municipal se reunirá ordinariamente cuando sea convocada, por el presidente, por el Fiscal de la Subdirectiva o por un número no inferior al 20% de los afiliados al municipio y extraordinariamente por la Directiva Central previa comunicación al presidente de la Subdirectiva municipal.
+
+**Artículo 57º.** Las funciones de la Asamblea Municipal serán:
+a) Elegir los miembros de la Subdirectiva Municipal por tarjetón voto directo y secreto por el sistema de planchas, y aplicando el cociente electoral para asegurar la representación de las minorías, so pena de nulidad, en cada municipio se debe inscribir mínimo 2 planchas.
+b) Aprobación del plan de acción de la subdirectiva Municipal y demás planes y políticas sindicales a ejecutarse, acogiéndose a las directrices trazadas por FECODE, CUT Y LA JUNTA DIRECTIVA CENTRAL.
+c) Proponer y aprobar el reglamento interno de la asamblea municipal de trabajadores de la educación.
+d) Cumplir con las tareas direccionadas desde la Organización Sindical.
+
+## CAPÍTULO XII
+### SUBDIRECTIVAS MUNICIPALES
+
+**Artículo 58º.** Las funciones y obligaciones de las subdirectivas municipales serán las mismas de la Junta Directiva Central, restringidas a su respectiva jurisdicción que para el efecto expida la Asamblea General, a excepción de lo estipulado en el artículo 29 del presente estatuto.
+
+**Parágrafo 1. Funciones de la Subdirectiva Municipal.**
+a) Ejercer la dirección del Sindicato en el municipio y orientar las actividades sindicales teniendo en cuenta la plataforma de lucha, el programa de acción y las resoluciones adoptadas por la Asamblea General de Delegados, el Pleno Departamental y la Junta Directiva Central.
+b) Velar porque todos los afiliados cumplan el estatuto del SUTEV y las obligaciones que les competen.
+c) Llevar a cabo la ejecución de los recursos correspondientes de acuerdo con el presente Estatuto y presentar la relación de gastos debidamente organizada de acuerdo a los parámetros establecidos desde la directiva central.
+d) Atender y resolver las solicitudes y reclamaciones de sus afiliados.
+e) Cumplir el plan de trabajo de la Junta Directiva Central.
+f) Presidir las Asambleas municipales de afiliados.
+g) Organizar la logística de los eventos municipales de participación sindical, como marchas, mítines, procesos electorales, encuentros de bienestar para los afiliados.
+h) Organizar, presidir y ejecutar las actividades artísticas, deportivas y de formación dispuestas por las diferentes secretarías.
+i) Intervenir en situaciones de conflicto patrono laboral que se presentan en el municipio.
+j) Presentar informes periódicos de los gastos a la asamblea municipal de afiliados una vez estén visados por tesorería de SUTEV departamental y por el auditor.
+k) Entregar informes sindicales a los afiliados y mantener la base de datos actualizada.
+l) Hacer seguimiento a las políticas educativas del municipio.
+m) Direccionar y construir los pliegos de solicitudes municipales y participar de las negociaciones.
+n) Gestionar ante las entidades gubernamentales y descentralizadas la vinculación en eventos de bienestar para los afiliados.
+o) Establecer relaciones de cooperación con otros sindicatos locales y regionales.
+p) Las demás que le asigne la Asamblea General o el Pleno Departamental o la Junta Directiva Central y que no contravenga el presente Estatuto.
+
+**Artículo 59º.** Los miembros de la Subdirectiva Municipal serán elegidos por tarjetón voto directo y secreto por el sistema de planchas, y aplicando el cociente electoral para asegurar la representación de las minorías, so pena de nulidad, en cada municipio se debe inscribir mínimo 2 planchas.
+
+**Artículo 60º.** Requisitos para ser miembro de la Subdirectiva Municipal.
+Para ser miembro de las subdirectivas municipales serán necesarios los siguientes requisitos:
+a) Ser afiliado a la organización sindical por un periodo no inferior a seis meses.
+b) Estar a paz y salvo con la organización sindical.
+c) No tener sanción vigente al momento de la inscripción y/o posesión.
+d) No tener doble vinculación sindical.
+e) No haber sido condenado por ningún delito, excepto los delitos políticos.
+
+**Parágrafo 1:** Las Subdirectivas Municipales se darán su propio reglamento interno, de acuerdo con el presente Estatuto.
+**Parágrafo 2:** Las Subdirectivas Municipales deben presentar informe financiero trimestralmente a sus afiliados y a la Junta Directiva Central.
+**Parágrafo 3:** El plazo para que la Subdirectiva establezca su propio reglamento será de 60 días después de posesionada.
+
+## CAPÍTULO XIII
+### EQUIPO COORDINADOR SINDICAL DE LOS ASUNTOS DE CALI
+
+**Artículo 61º.** Este equipo estará conformado por el mismo número de miembros de la Junta Directiva Central, entre los cuales se designarán los responsables de cada uno de los asuntos que debe asumir por estatuto cada secretaría especial de la Junta Directiva Central.
+
+**Artículo 62º.** Los integrantes del Equipo Coordinador Sindical de los Asuntos de Cali serán elegidos a través de voto directo, por el sistema de planchas y de cociente electoral.
+
+**Artículo 63º.** El Equipo Coordinador Sindical de los Asuntos de Cali tendrá para su operatividad, la estructura y las funciones de una Subdirectiva y tendrá como presupuesto el 3.5% de los aportes de los afiliados de este municipio.
+
+**Parágrafo 1:** El Equipo Coordinador Sindical de los Asuntos de Cali actuará como una Comisión de Quejas y Reclamos del municipio.
+**Parágrafo 2:** El Equipo Coordinador Sindical de los Asuntos de Cali se dará su propio reglamento en coordinación con la Junta Directiva Central.
+**Parágrafo 3.** La Junta Directiva Central gestionará dos días de permiso para la labor sindical de los integrantes del Equipo Coordinador Sindical de los Asuntos de Cali.
+
+## CAPÍTULO XIV
+### DE LAS CUOTAS SINDICALES
+
+**Artículo 64º.** Los afiliados (as) a la Organización Sindical estarán obligados a pagar cuotas ordinarias y extraordinarias.
+
+**Artículo 65º.** La cuota ordinaria de sostenimiento es el 1% del salario básico mensual y podrá ser modificada mediante reforma estatutaria; se recaudará a través de la oficina de tesorería de la Secretarías de Educación, de las entidades territoriales certificadas o del organismo que haga sus veces, de las Tesorerías Municipales y de las Pagadurías Especiales.
+
+**Parágrafo 1:** Las cuotas extraordinarias en ningún caso podrán exceder el 5% del salario del afiliado y serán decretadas exclusivamente por la Asamblea General de Delegados, con el voto afirmativo de las dos terceras partes y solamente podrán ser decretadas por un tiempo determinado y con destinación específica.
+
+## CAPÍTULO XV
+### ADMINISTRACIÓN DE BIENES Y FONDOS SINDICALES
+
+**Artículo 66º.** La Asamblea General de Delegados aprobara el presupuesto de gastos para períodos no mayores de un (1) año y sin autorización expresa de la misma Asamblea no podrá hacerse ninguna negociación que no esté prevista en dicho presupuesto. Sin perjuicio de las prohibiciones o de los requisitos adicionales que el estatuto prevea; todo gasto que exceda del equivalente al salario mínimo mensual vigente, con excepción de los sueldos asignados en el presupuesto, requiere la aprobación previa de la Junta Directiva Central. Los que excedan el equivalente a 1.5% del patrimonio y no estén previstos en el presupuesto necesitan además la refrendación expresa de la Asamblea General de Delegados, con el voto de la mayoría absoluta de los delegados. Los que excedan del equivalente a 10 % del patrimonio, aunque estén previstos en el presupuesto, requerirán la refrendación de la Asamblea General de Delegados por las dos terceras partes de los votos de los delegados.
+
+**Parágrafo 1:** La Comisión de Ética hará Veeduría especial de los gastos no previstos en el presupuesto, que se encuentren a la espera de refrendación por parte de la Asamblea General de Delegados.
+
+**Artículo 67:** Los fondos del Sindicato deberán permanecer en dos (2) o más bancos o entidades del sector financiero de la economía solidaria, en cuenta corriente o afines o en certificados de depósito, y los títulos valores se manejan con las firmas del Presidente, Fiscal y Tesorero de la Junta Directiva Central, o de la Subdirectiva Municipal, quienes para el efecto las harán reconocer previamente en la institución bancaria. Los saldos se tendrán en cuenta de rendimiento y Fondo.
+* Pro - sede: 4%
+* FECODE: 15%
+* Fondo Pro - paro: 4,70%
+* Fondo de Solidaridad: 1,40%
+* Fondo Red de Derechos Humanos y Ambiental: 1,40%
+* Asuntos de la Mujer: 1,40%
+* CEID: 2,10%
+* Escuela Sindical: 2,10%
+* Recreación y Cultura: 2,00%
+* Prensa, Propaganda y Comunicación: 1,00%
+* Trabajadores de la Educación y Etnoeducación: 1,00%
+* Seguridad Social, Docentes Territoriales y Pensionados: 1,00%
+* Salud: 1,00%
+* Quejas, Reclamaciones, Asuntos Laborales y Jurídicos: 1,00%
+* Municipios Certificados y Asuntos de Cali: 1,00%
+* Institutos Técnicos, Jornadas Nocturnas y Docentes 1278: 1,00%
+* CUT Regional: 1,00%
+* CUT Nacional: 1,00%
+DESPUÉS DE ESTOS DESCUENTOS EL EXCEDENTE SE DISTRIBUYE ASÍ:
+* Subdirectivas Municipales: 55,00%
+* Junta Directiva Central: 45,00%
+
+**Parágrafo 1:** La Junta Directiva Central asignará un presupuesto a las demás Secretarías previo análisis por parte de esta, de los planes de acción presentados.
+**Parágrafo 2:** Fortalecer la infraestructura del SUTEV en las subdirectivas que tienen sede propia.
+**Parágrafo transitorio:** Se autoriza la venta del inmueble de la casa del maestro del municipio de Guadalajara de Buga con el fin de destinar los recursos para la compra de otro inmueble más funcional y se aprueba la suma de cien millones ($100.000.000) de pesos para iniciar la construcción de la casa del maestro de Jamundí.
+
+## CAPÍTULO XVI
+### DE LAS SANCIONES
+
+**Artículo 68º.** Las infracciones y el incumplimiento de las obligaciones establecidas en el presente Estatuto serán sancionados por la Junta Directiva Central, Pleno Departamental y/o Asamblea General de Delegados, previa aplicación del debido proceso a los afiliados(as) y Representantes.
+
+**Artículo 69º.** Los miembros de los organismos de dirección y control, las comisiones, las representaciones y los (as) afiliados (as) que incumplan el presente estatuto se harán merecedores a las siguientes sanciones, las que se aplicaran de acuerdo con la gravedad o incidencia de la falta:
+
+### TABLA DE SANCIONES
+
+**Tipo de falta:** Leve
+* **Vulneración estatutaria:** 1. Incumplimiento a las reuniones estatutarias y convocatorias de la Organización sin justa causa.
+* **Sanción Aplicable:** Llamado de atención y escrito.
+* **Instancia:** Junta Directiva
+
+**Tipo de falta:** Grave
+* **Vulneración estatutaria:** 1. Reincidencia en una falta leve.
+* **Sanción Aplicable:** Suspensión de los derechos como afiliado por tres meses.
+* **Instancia:** Pleno Departamental
+
+* **Vulneración estatutaria:** 2. Inasistencia a las reuniones estatuarias cuando se hace parte de una representación sindical sin justa causa.
+* **Sanción Aplicable:** Suspensión de las funciones del cargo.
+
+* **Vulneración estatutaria:** 3. Incumplimiento de los deberes como afiliado.
+* **Sanción Aplicable:** Suspensión de los derechos de afiliado por tres meses.
+* **Instancia:** La Asamblea General de Delegados ratifica o exime de los cargos.
+
+* **Vulneración estatutaria:** 4. Incumplimiento de las funciones y obligaciones propias de los cargos de dirección sindical.
+* **Sanción Aplicable:** Suspensión de las funciones del cargo.
+* **Instancia:** Pleno Departamental
+
+* **Vulneración estatutaria:** 5. Indisciplina sindical; no seguir directrices y protagonizar actos que comprometan la estabilidad de la O.S.
+* **Sanción Aplicable:** Suspensión de los derechos de afiliado por tres meses.
+* **Instancia:** La Asamblea General de Delegados ratifica o exime de los cargos.
+
+* **Vulneración estatutaria:** 6. Agresión física y/o verbal entre afiliados en cumplimiento de las tareas de la organización sindical.
+* **Sanción Aplicable:** Suspensión de los derechos de afiliado por tres meses.
+
+* **Vulneración estatutaria:** 7. Ingreso a la sede sindical o recintos de eventos sindicales bajo los efectos del alcohol o sustancias psicoactivas.
+* **Sanción Aplicable:** Suspensión de los derechos de afiliado por tres meses.
+
+* **Vulneración estatutaria:** 8. No pagar las cuotas sindicales puntualmente y deudas contraídas con la organización sindical.
+* **Sanción Aplicable:** Hasta 3 cuotas de suspensión de los derechos de afiliado hasta que este a paz y salvo. Se exceptúan los afiliados en situación de desplazamiento forzado, en calamidad doméstica y/o familiar.
+
+* **Vulneración estatutaria:** 9. No proporcionar respuesta a las peticiones de información financiera por parte de los afiliados.
+
+**Tipo de falta:** Gravísimas
+* **Vulneración estatutaria:** Haber sido condenado por delitos dolosos.
+* **Sanción Aplicable:** Expulsión.
+
+* **Vulneración estatutaria:** Violación sistemática a los estatutos.
+* **Sanción Aplicable:** Suspensión de los derechos de afiliados por un año.
+
+* **Vulneración estatutaria:** Asumir comportamientos desleales con los principios universales del sindicalismo.
+* **Sanción Aplicable:** Suspensión de los derechos de afiliados por un año.
+* **Instancia:** Pleno departamental o Asamblea General de Delegados.
+
+* **Vulneración estatutaria:** Divulgar en forma escrita o audiovisual información que atente contra la unidad, el buen nombre y la estabilidad de la organización sindical (CUT, FECODE, SUTEV).
+* **Sanción Aplicable:** Suspensión de los derechos de afiliado por un año.
+
+* **Vulneración estatutaria:** No proporcionar respuesta a las peticiones de información financiera por parte de los afiliados, de manera reiterativa.
+
+**Parágrafo 1:** Toda multa se impondrá mediante resolución y el valor recaudado por este concepto ingresará al fondo del Sindicato.
+**Parágrafo 2:** Las resoluciones que se dicten en desarrollo de los casos previstos anteriormente, tendrán los siguientes recursos: El de Reposición ante la instancia que sanciona, el de Apelación ante la instancia superior y el de Súplica ante la Asamblea General de Delegados.
+**Parágrafo 3:** A los afiliados que se le compruebe afiliación a otro sindicato de la misma naturaleza y/o que incentiven el paralelismo sindical, quedan inhabilitados para postularse y ocupar cargos de dirección sindical dentro del SUTEV. Toda manifestación pública, escrita o audiovisual que atente contra la unidad, el buen nombre y la estabilidad de la Organización Sindical (SUTEV, CUT, FECODE) se considerará como falta gravísima y se sancionará de acuerdo con el presente estatuto.
+
+## CAPÍTULO XVII
+### RETIRO DE LOS ASOCIADOS
+
+**Artículo 70º.** Todo miembro del Sindicato podrá retirarse de él, sin otra obligación que estar a paz y salvo con la tesorería, con las otras secretarías y dependencias de la Organización Sindical.
+
+**Artículo 71º.** Para retirarse del SUTEV el afiliado deberá presentar su renuncia por escrito de manera individual a la Junta Directiva Central. Esta tiene un plazo máximo de 30 días para responder.
+
+**Parágrafo:** La renuncia deberá tener reconocimiento de firma ante Notario.
+
+## CAPÍTULO XVIII
+### LIQUIDACIÓN Y DISOLUCIÓN DEL SINDICATO
+
+**Artículo 72º.** Para decretar la disolución del Sindicato se requiere la aprobación cuando menos de las dos terceras partes de los delegados, nombrados Representantes a la Asamblea General de Delegados, durante dos (2) sesiones en días diferentes, lo cual se acreditará con actas firmadas por los asistentes.
+
+**Artículo 73º.** El Sindicato se disolverá:
+a) Por clausura de los servicios educativos departamentales o nacionales.
+b) Por voluntad de la Asamblea General de Delegados, en consonancia con el Artículo 72 del Estatuto.
+c) Por sentencia judicial.
+d) Por reducción de los afiliados a un número inferior de veinticinco (25).
+
+**Artículo 74º.** Al disolverse el SUTEV, el liquidador designado por la Asamblea General de Delegados o por el Juez, según el caso, aplicará los fondos existentes, el producto de los bienes que fuere indispensable enajenar y el valor de los créditos que recaude, en primer término, al pago de la deuda del Sindicato, incluyendo los gastos de liquidación. Del remanente se reembolsará a los miembros activos las sumas que hubiera aportado como cotizaciones ordinarias, previa deducción de sus deudas para con el Sindicato, o si no alcanzare, se le distribuirá a prorrata de sus respectivos aportes por dicho concepto. En ningún caso, ni por ningún motivo puede un afiliado recibir más de un monto de las cuotas ordinarias que haya aportado.
+
+**Parágrafo:** Si el Sindicato estuviere afiliado a una Federación o Confederación, el liquidador debe admitir la intervención simplemente consultiva de un delegado de cada una de las instituciones referidas.
+
+**Artículo 75º.** Lo que quedare del haber común, una vez pagadas las deudas y hechos los reembolsos, se adjudicará por el liquidador a la Organización Sindical designada para ello en el Estatuto o por la Asamblea General de Delegados, si ninguno hubiere sido designado así, se le adjudicará al Instituto de beneficencia o de utilidad social que señale el gobierno.
+
+## CAPÍTULO XIX
+### DE LA REVISORÍA FISCAL
+
+**Artículo 76º.** Definición. La Revisoría Fiscal es un órgano de fiscalización que, en interés de la comunidad, bajo la dirección y responsabilidad del Revisor Fiscal y con sujeción a las normas de auditoría generalmente aceptadas, le corresponde dictaminar los estados financieros, revisar y evaluar sistemáticamente los componentes y elementos que integran el control interno, en forma oportuna e independiente, en los términos que señalan la Ley, el estatuto del SUTEV y los pronunciamientos profesionales.
+
+**Artículo 77º.** El periodo del Revisor Fiscal será igual al de la Junta Directiva Central. Si a juicio de la Comisión de Ética y Veeduría Sindical no cumple con sus funciones legales, ésta podrá solicitar al Pleno Departamental, de manera sustentada, su retiro y su reemplazo se hará conforme al Estatuto del SUTEV.
+
+**Artículo 78º.** Funciones del Revisor Fiscal: El ejercicio del Revisor Fiscal se fundamenta en las disposiciones normativas del Código de Comercio, del Estatuto Orgánico de la Profesión del Contador Público (Ley 43 de 1990) y de las demás normas que las modifiquen y/o complementen.
+
+**Parágrafo:** El Revisor Fiscal presentará trimestralmente informes a la Junta Directiva con copia a la Comisión de Ética y Veeduría Sindical, al Pleno Departamental y/o a la Asamblea General de Delegados, cuando se reúnan ordinariamente.
+
+**Artículo 79º.** El suplente del Revisor Fiscal será aquel que obtenga la siguiente votación en estricto orden descendente. En caso de ausencia del titular y el agotamiento de la lista de suplentes, la Junta Directiva Central queda facultada para nombrar provisionalmente un revisor fiscal hasta la próxima Asamblea General de Delegados que elegirá en propiedad.
+
+**Artículo 80º.** La Junta Directiva Central dispondrá de un plazo no mayor de un año, a partir de la promulgación del presente estatuto para su difusión y reglamentación.
+
+## CAPÍTULO XX
+### DISPOSICIONES GENERALES
+
+**Artículo 81º.** El Sindicato está obligado a cumplir estrictamente el presente Estatuto y todas las disposiciones de carácter legal que dicten sobre la materia.
+
+**Parágrafo:** Los afiliados que infrinjan el presente estatuto por omisión o extralimitación se harán responsables de las acciones estatutarias, legales y constitucionales a que haya lugar.
+
+**Artículo 82º.** Todo miembro del Sindicato para acreditarse como tal será provisto de su correspondiente carnet de afiliado(a), expedido y firmado por el presidente y el secretario general de la Junta Directiva Central.
+
+**Artículo 83º.** El Sindicato no podrá contratar, ni mucho menos remunerar, los servicios de funcionarios, asesores técnicos, o apoderados que no reúnan las condiciones de competencia y honorabilidad que tales cargos requieran para su ejercicio ante terceros o ante las autoridades.
+
+**Artículo 84º.** El Fondo de Solidaridad por Muerte, que se financiará con el aporte del 0,3 % del Salario Mínimo Legal Mensual Vigente de todos los asociados. Este Fondo cancelará a la familia del asociado fallecido un auxilio por muerte equivalente a trece (13) Salarios Mínimos Legales Mensuales Vigentes.
+
+**Parágrafo 1:** Para la entrega del auxilio de solidaridad por la muerte de un docente, se realizarán los descuentos a los beneficiarios correspondientes al costo de la publicación del edicto en un periódico de amplia circulación en el Valle del Cauca.
+**Parágrafo 2:** Aportar 1 cuota extraordinaria del auxilio de solidaridad mutual por una única vez durante los años 2025 y 2026, en el mes de julio, con el fin de capitalizar el fondo para poder afrontar posibles emergencias.
+**Parágrafo 3:** Conformar el Comité de Auxilio y Solidaridad por muerte con 3 integrantes, quienes serán elegidos por votación en el Pleno Departamental y se reunirán una vez por semana.
+
+**Artículo 85º.** El Fondo de Solidaridad, tendrá como objetivo prioritario, el auxilio y solidaridad con los educadores suspendidos, destituidos o declarados insubsistentes por el gobierno por razón de sus actividades sindicales. Facultase al Pleno de presidentes para que expida su reglamentación. Este fondo se sostendrá con el 2,5% de los ingresos netos del Sindicato.
+
+**Artículo 86º.** Para los eventos electorales la Comisión Departamental de Garantías Electorales estará integrada por 5 afiliados quienes organizarán y vigilarán la elección directa de la Junta Directiva Central, de las Subdirectivas Municipales, del Equipo Coordinador Sindical de los Asuntos de Cali y de las Representaciones a los diferentes organismos. En la reglamentación se preverá todo lo relacionado con la mecánica electoral como: Urnas, Votaciones, Planchas, Tarjetón, Jurado Escrutador, entre otros. La Junta Directiva asignará un presupuesto para tales efectos. Su integración y reglamentación corresponderán al Pleno Departamental.
+
+**Artículo 87º.** El sindicato tendrá una Comisión de ética y veeduría Sindical conformada por cinco afiliados con el propósito de garantizar el cumplimiento de las funciones los miembros de la Junta Directiva Central, de las Subdirectivas municipales, de los miembros del Pleno Departamental, de los Representantes ante Organismos Oficiales y de todos los afiliados al SUTEV en caso de que un afiliado incumpla con los Deberes referenciados en el Artículo 7º. Su elección se hará por voto directo. Es un organismo autónomo con relación a la Junta directiva, para la vigilancia, control y cumplimiento del estatuto. Sus miembros serán elegidos por tarjetón aplicando el código electoral estatutario, el mismo día que se elige la Junta directiva central y cumplirá el mismo periodo estatutario.
+
+**Parágrafo:** Los integrantes del Comité de ética en ningún caso podrán desempeñar simultáneamente otro cargo de representación, de control o de dirección sindical.
+
+**Artículo 88º. FUNCIONES DE LA COMISIÓN DE ÉTICA:**
+* Esta comisión conocerá e investigará los casos de violación del Estatuto y faltas éticas; propondrá al Pleno o a la Asamblea General de Delegados su sanción. Contará con los recursos para su funcionamiento.
+* Vigilar el cumplimiento del estatuto y estudiar los casos en los que se presente vulneración de estos.
+* Documentar las investigaciones de violación estatutaria siguiendo el debido proceso.
+* Organizar el archivo de los procesos disciplinarios que hacen parte de sus investigaciones y competencia.
+* Presentar a junta los informes de los casos que son motivo de investigación.
+* Emitir concepto sobre los casos de violación estatutaria, presentarlos a la junta directiva, al pleno y/o a la Asamblea general.
+* Mediar en conflictos que se generen entre los afiliados, levantar las actas respectivas de los casos y proponer alternativas de solución.
+
+**Parágrafo 1:** la comisión de ética se reunirá ordinariamente una vez al mes y en forma extraordinaria para atender casos que direccione la junta directiva centra o para atender asuntos de su propia dinámica.
+**Parágrafo 2:** Para aspirar y permanecer en esta comisión el afiliado no puede tener sanción vigente.
+**Parágrafo 3:** La comisión de ética fijará su propio reglamento, el cual debe ser aprobado por el pleno departamental.
+**Parágrafo 4:** Si uno o varios de sus integrantes aspiran a un cargo en los diferentes estamentos democráticos que se dan al interior de nuestra organización sindical u otra relacionada (CUT - FECODE) deben presentar su renuncia al cargo de la comisión seis (6) meses antes del proceso electoral.
+
+**Artículo 89º.** Para la identificación de los Directivos del SUTEV, la Junta Directiva Central ordenará un carné especial donde aparezca:
+a) Fotografía del Directivo
+b) Nombre, identificación y cargo que desempeña dentro de la Junta Directiva Central.
+c) Periodo para el cual está elegido.
+d) Firma y sello del presidente y el secretario general.
+
+**Parágrafo:** Vencido el periodo del Directivo o perdida su investidura por uno o varios de sus miembros devolverá(n) a la Secretaría General el carné para proceder a su anulación.
+
+**Artículo 90º.** Adoptase el plebiscito, referéndum y el cabildo abierto como mecanismos de participación y la revocatoria del mandato para los integrantes de la Junta Directiva Central y de las Subdirectivas Municipales, Equipo Coordinador de los Asuntos de Cali y Representantes. El Pleno Departamental los reglamentará de acuerdo con la Ley en un plazo de (6) seis meses a partir de la vigencia del presente Estatuto.
+
+**Artículo 91º.** Todos los Representantes del Sindicato ante organismos oficiales de carácter Departamental y local y los Representantes ante el Servicio Médico serán elegidos de manera directa por los afiliados al Sindicato. Dicha elección se hará por tarjetón siempre y cuando cada persona represente una plancha. Estos representantes trabajarán en coordinación con la Junta Directiva Central, la cual los convocará a reuniones periódicas. Dicha elección se hará por tarjeta siempre y cuando cada persona represente una plancha. El Pleno Departamental reglamentará las funciones de los representantes en un plazo mínimo de 6 meses a partir de la vigencia del presente Estatuto.
+
+**Parágrafo 1:** Los anteriores representantes, en ningún caso podrán desempeñar simultáneamente otro cargo de representación, de control o de dirección sindical.
+**Parágrafo 2:** Las Representaciones del SUTEV elegidas por voto directo en cada Ente Territorial son:
+* Representación de Salud – 2 representantes.
+* Representación de Amenazados – 2 representantes.
+* Representación de Prestaciones Sociales – 2 representantes.
+* JUME 1 representante y JUDE 2 representantes.
+**Parágrafo 3:** Los candidatos a los cargos de representación sindical ya sea directiva central, delegados a la asamblea general y demás representaciones deben acreditar 40 horas de formación sindical que incluya conocimiento del estatuto del SUTEV, acreditada por la escuela sindical del SUTEV; Es un requisito que deben presentar al momento de inscribir la plancha. Quienes haya hecho parte de una junta o un cargo de representación no requieren presentar dicha certificación.
+**Parágrafo 4:** Los afiliados que hagan parte de cargos de dirección con los gobiernos de turno y se les comprueben comportamientos desleales que atenten contra los principios, la ética sindical y contra la organización, no pueden aspirar a cargos de dirección sindical en el SUTEV.
+**Parágrafo 5:** En caso de empate en la lista de elecciones ganará la plancha que se inscriba primero de acuerdo con el cronograma electoral.
+
+**Artículo 92º. Funciones generales de las representaciones.**
+Son funciones generales de los representantes de SUTEV:
+a) Participar de Reuniones y Convocatorias.
+b) Visitar prestadores del área de salud y SSGT y/u Objetos de REVISIÓN según la representación correspondiente.
+c) Planear el CRONOGRAMA de trabajo con las secretarías departamentales.
+d) Presentar la relación de viáticos SEMANAL, si está autorizado por los estatutos y le corresponde según la representación.
+e) Entregar Informes a SUTEV trimestralmente, o cuando se soliciten.
+f) Trabajar en equipo articulado como par con los integrantes de las secretarías de las subdirectivas según el Ente Territorial correspondiente.
+
+**Artículo 93º.** Son funciones específicas de la representación en salud del SUTEV:
+a) Trabajar como equipo de apoyo de la secretaría de salud de la Junta Central de SUTEV, como representantes de los usuarios del servicio de salud y SSGT del régimen exceptuado de los maestros del Valle del Cauca.
+b) Revisar la oportunidad en la prestación del servicio médico-asistencial del magisterio por parte de los prestadores de servicios de salud contratados por FOMAG en el ente territorial designado.
+c) Recibir y analizar las PQRS e irregularidades de parte de los usuarios que se presentan en la prestación del servicio médico-asistencial por parte de los prestadores de servicios de salud y SSGT contratados por FOMAG.
+d) Realizar ejercicio de control y seguimiento de las irregularidades que se presentan en la prestación del servicio médico-asistencial del magisterio.
+e) Orientar a los usuarios en el uso del modelo de salud, y SSGT en el régimen exceptuado del magisterio.
+f) Realizar informes oportunos sobre las irregularidades presentadas en la prestación de los servicios de salud con los prestadores contratados por FOMAG, ante la secretaria de salud departamental de SUTEV.
+g) Ser intermediario en la interposición de PQRS ante FOMAG cuando el usuario así lo requiera, según los derechos y deberes del Acuerdo 003 del 2024.
+h) Vigilar el sistema de Seguridad y Salud en el trabajo (SSGT), vigente y bajo el régimen exceptuado de los maestros con las Secretarías de Educación correspondientes.
+i) Revisar con las Secretarías de Educación municipales y departamental, la creación y funcionamiento del COPASST.
+j) En caso de ser representante de Ente Territorial Certificado, presentar Informe trimestral de gestión sobre su labor como representante en su municipio.
+k) Realizar una reunión trimestral en los Entes Territoriales Certificados con 1 delegado por institución que sea integrante del COPASST.
+
+**Artículo 94º. Funciones de los representantes de prestaciones sociales.**
+Los Representantes de prestaciones sociales elegidos por votación tendrán las siguientes funciones:
+a) Asumir su responsabilidad como representantes de los trabajadores de la educación y propender por la defensa de los derechos en la prestación de un servicio oportuno.
+b) Velar por el cumplimiento en los términos de ley, de los diferentes procesos de las Prestaciones Sociales del magisterio Vallecaucano.
+c) Los representantes departamentales y de municipios certificados deben participar de manera activa en las reuniones que convoque Junta Departamental, La Secretaría de SEGURIDAD SOCIAL, DOCENTES TERRITORIALES Y PENSIONADOS y las Secretarías de Educación de los E.T.
+d) Informar de manera oportuna al líder de la Secretaría de SEGURIDAD SOCIAL, DOCENTES TERRITORIALES Y PENSIONADOS las irregularidades en los procesos con FOMAG y las diferentes Secretarías de Educación y exigir.
+e) Orientar a los afiliados en los procesos que deben realizar para la solicitud de las diferentes prestaciones sociales.
+
+**Artículo 95º:** La Junta Directiva Central organizará cada dos años un homenaje de reconocimiento a aquellos afiliados pensionados que decidan retirarse del servicio activo, que se hayan destacado, por su liderazgo sindical, además por su nivel profesional, cultural y artístico, etc., del mismo modo se les brindará orientaciones y apoyo para lograr articulación con alguna organización de pensionados que tenga afinidad con nuestra organización sindical para que se vinculen y hagan parte de ella.
+
+**Artículo 96º.** La Junta Directiva Central organizará en acuerdo con la Secretaría de Cultura Recreación y Deportes, cada dos (2) años, los Juegos Departamentales del SUTEV.
+
+**Parágrafo:** Se financiarán con recursos propios de la Organización sindical y contribuciones de otras instituciones donde se haga la gestión, estos aportes deberán ingresar a las cuentas de la Organización Sindical y se reservará el derecho de admisión de los recursos.
+
+### JUNTA DIRECTIVA CENTRAL-2023-2027
+
+*   **DIRECTIVO:** LIBARDO BENITEZ MONDRAGON, **CARGO:** PRESIDENTE
+*   **DIRECTIVO:** JANETH POLANCO SARMIENTO, **CARGO:** VICEPRESIDENTE, **SECRETARÍA:** Derechos humanos y cultura democrática.
+*   **DIRECTIVO:** CARLOS A PAZ FONSECA, **CARGO:** FISCAL, **SECRETARÍA:** Cultura Recreación y Deportes.
+*   **DIRECTIVO:** GUSTAVO CORREA OCAMPO, **CARGO:** SECRETARIO GENERAL y de ACTAS, **SECRETARÍA:** De Asuntos educativos, pedagógicos y científicos CEID y escuelas Normales.
+*   **DIRECTIVO:** IVETH VIVIANA ALVARADO C., **CARGO:** TESORERÍA, **SECRETARÍA:** De salud.
+*   **DIRECTIVO:** MIREYA RODRIGUEZ ROJAS, **SECRETARÍA:** Seguridad Social -Docentes Territoriales y Pensionados.
+*   **DIRECTIVO:** JEUS EDUARDO CUERO A, **SECRETARÍA:** trabajadores de la educación (asuntos intergremiales y cooperativos) y Etnoeducadores.
+*   **DIRECTIVO:** NUBIA I MUÑOZ SAMBONI, **SECRETARÍA:** Género, Igualdad e inclusión.
+*   **DIRECTIVO:** JAVIER H ZAPATA MOLINA, **SECRETARÍA:** Institutos técnicos, jornadas nocturnas y docentes 1278.
+*   **DIRECTIVO:** FRANCIA MILENA ORTEGA C, **SECRETARÍA:** Organización y educación Sindical.
+*   **DIRECTIVO:** BARTOLO MINA HERNANDEZ, **SECRETARÍA:** Reclamaciones, Asuntos laborales y jurídicos.
+*   **DIRECTIVO:** LILIANA VIVAS CORTES, **SECRETARÍA:** Municipios Certificados y asuntos de Cali.
+*   **DIRECTIVO:** VICTOR A BARONA JARAMILLO, **SECRETARÍA:** Prensa, Propaganda y Comunicaciones.
+```
