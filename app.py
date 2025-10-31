@@ -3,8 +3,16 @@ import os
 import gradio as gr
 
 # --- Importaciones de LangChain ---
-from langchain.retrievers import EnsembleRetriever, ContextualCompressionRetriever
+# Retriever ensamblado (correcto en LangChain >=0.2.0)
+from langchain.retrievers.ensemble import EnsembleRetriever
+
+# Compresión contextual
+from langchain.retrievers import ContextualCompressionRetriever
+
+# Compresor con re-ranker
 from langchain.retrievers.document_compressors import CrossEncoderReranker
+
+
 from langchain_community.retrievers import BM25Retriever
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import MarkdownHeaderTextSplitter
